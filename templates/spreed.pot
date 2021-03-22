@@ -1,0 +1,4542 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Base.php:138
+msgid "a conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:76
+#, php-format
+msgid "(Duration %s)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:93
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:98
+msgid "You attended a call with {user1}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:94
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:101
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:109
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:117
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:125
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:560
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:567
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:575
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:583
+msgid "%n guest"
+msgid_plural "%n guests"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:100
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:106
+msgid "You attended a call with {user1} and {user2}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:108
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:114
+msgid "You attended a call with {user1}, {user2} and {user3}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:116
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:122
+msgid "You attended a call with {user1}, {user2}, {user3} and {user4}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:124
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:130
+msgid "You attended a call with {user1}, {user2}, {user3}, {user4} and {user5}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Call.php:136
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:594
+msgid "%n other"
+msgid_plural "%n others"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Provider/Invitation.php:53
+msgid "{actor} invited you to {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Activity/Setting.php:51
+msgid ""
+"You were invited to a <strong>conversation</strong> or had a <strong>call</"
+"strong>"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/AppInfo/Application.php:173
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:129
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/Section.php:73
+#: /var/tmp/translationtest/spreed/specialAppInfoFakeDummyForL10nScript.php:2
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:7
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:8
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:9
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:10
+msgid "Talk"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/AutoComplete/SearchPlugin.php:196
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:541
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/UserMention.php:136
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/UserMention.php:138
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:172
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:173
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:240
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:246
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:247
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:407
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:473
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:502
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:516
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:539
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:578
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:580
+#: /var/tmp/translationtest/spreed/src/store/guestNameStore.js:39
+#: /var/tmp/translationtest/spreed/src/store/guestNameStore.js:57
+msgid "Guest"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:89
+msgid ""
+"Welcome to Nextcloud Talk!\n"
+"In this conversation you will be informed about new features available in "
+"Nextcloud Talk."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:92
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:99
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:102
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:106
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:110
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:114
+#, php-format
+msgid "New in Talk %s"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:93
+msgid ""
+"- Microsoft Edge and Safari can now be used to participate in audio and "
+"video calls"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:94
+msgid ""
+"- One-to-one conversations are now persistent and can not be turned into "
+"group conversations by accident anymore. Also when one of the participants "
+"leaves the conversation, the conversation is not automatically deleted "
+"anymore. Only if both participants leave, the conversation is deleted from "
+"the server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:95
+msgid "- You can now notify all participants by posting \"@all\" into the chat"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:96
+msgid "- With the \"arrow-up\" key you can repost your last message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:97
+msgid ""
+"- Talk can now have commands, send \"/help\" as a chat message to see if "
+"your administrator configured some"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:98
+msgid ""
+"- With projects you can create quick links between conversations, files and "
+"other items"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:100
+msgid "- You can now mention guests in the chat"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:101
+msgid ""
+"- Conversations can now have a lobby. This will allow moderators to join the "
+"chat and call already to prepare the meeting, while users and guests have to "
+"wait"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:103
+msgid ""
+"- You can now directly reply to messages giving the other users more context "
+"what your message is about"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:104
+msgid ""
+"- Searching for conversations and participants will now also filter your "
+"existing conversations, making it much easier to find previous conversations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:105
+msgid ""
+"- You can now add custom user groups to conversations when the circles app "
+"is installed"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:107
+msgid "- Check out the new grid and call view"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:108
+msgid ""
+"- You can now upload and drag'n'drop files directly from your device into "
+"the chat"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:109
+msgid ""
+"- Shared files are now opened directly inside the chat view with the viewer "
+"apps"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:111
+msgid ""
+"- You can now search for chats and messages in the unified search in the top "
+"bar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:112
+msgid "- Spice up your messages with emojis from the emoji picker"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:113
+msgid "- You can now change your camera and microphone while being in a call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:115
+msgid ""
+"- Give your conversations some context with a description and open it up so "
+"logged in users can find it and join themselves"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:116
+msgid "- See a read status and send failed messages again"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Changelog/Manager.php:117
+msgid "- Raise your hand in a call with the R key"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Command/Executor.php:160
+msgid "There are currently no commands available."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Command/Executor.php:189
+msgid "The command does not exist"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Command/Executor.php:213
+msgid ""
+"An error occurred while running the command. Please ask an administrator to "
+"check the logs."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/Changelog.php:42
+#: /var/tmp/translationtest/spreed/lib/Manager.php:878
+msgid "Talk updates ✅"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:112
+msgid "{actor} created the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:114
+msgid "You created the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:116
+msgid "An administrator created the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:119
+#, php-format
+msgid "{actor} renamed the conversation from \"%1$s\" to \"%2$s\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:121
+#, php-format
+msgid "You renamed the conversation from \"%1$s\" to \"%2$s\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:123
+#, php-format
+msgid "An administrator renamed the conversation from \"%1$s\" to \"%2$s\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:126
+#, php-format
+msgid "{actor} set the description to \"%1$s\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:128
+#, php-format
+msgid "You set the description to \"%1$s\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:130
+#, php-format
+msgid "An administrator set the description to \"%1$s\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:133
+msgid "{actor} removed the description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:135
+msgid "You removed the description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:137
+msgid "An administrator removed the description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:140
+msgid "{actor} started a call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:142
+msgid "You started a call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:145
+msgid "{actor} joined the call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:147
+msgid "You joined the call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:150
+msgid "{actor} left the call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:152
+msgid "You left the call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:157
+msgid "{actor} unlocked the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:159
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:316
+msgid "You unlocked the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:161
+msgid "An administrator unlocked the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:164
+msgid "{actor} locked the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:166
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:315
+msgid "You locked the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:168
+msgid "An administrator locked the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:171
+msgid "{actor} limited the conversation to the current participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:173
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:296
+msgid "You limited the conversation to the current participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:175
+msgid "An administrator limited the conversation to the current participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:178
+msgid "{actor} opened the conversation to registered users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:180
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:297
+msgid "You opened the conversation to registered users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:182
+msgid "An administrator opened the conversation to registered users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:185
+msgid "{actor} opened the conversation to registered and guest app users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:187
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:298
+msgid "You opened the conversation to registered and guest app users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:189
+msgid ""
+"An administrator opened the conversation to registered and guest app users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:192
+msgid "The conversation is now open to everyone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:194
+msgid "{actor} opened the conversation to everyone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:196
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:307
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:524
+msgid "You opened the conversation to everyone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:199
+msgid "{actor} restricted the conversation to moderators"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:201
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:306
+msgid "You restricted the conversation to moderators"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:204
+msgid "{actor} allowed guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:206
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:285
+msgid "You allowed guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:208
+msgid "An administrator allowed guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:211
+msgid "{actor} disallowed guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:213
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:286
+msgid "You disallowed guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:215
+msgid "An administrator disallowed guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:218
+msgid "{actor} set a password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:220
+msgid "You set a password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:222
+msgid "An administrator set a password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:225
+msgid "{actor} removed the password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:227
+msgid "You removed the password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:229
+msgid "An administrator removed the password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:233
+msgid "{actor} added {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:236
+msgid "You joined the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:238
+msgid "{actor} joined the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:241
+msgid "You added {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:243
+msgid "{actor} added you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:245
+msgid "An administrator added you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:248
+msgid "An administrator added {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:254
+msgid "You left the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:256
+msgid "{actor} left the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:259
+msgid "{actor} removed {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:261
+msgid "You removed {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:263
+msgid "{actor} removed you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:265
+msgid "An administrator removed you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:268
+msgid "An administrator removed {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:273
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:299
+msgid "{actor} promoted {user} to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:275
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:301
+msgid "You promoted {user} to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:277
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:303
+msgid "{actor} promoted you to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:279
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:305
+msgid "An administrator promoted you to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:282
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:308
+msgid "An administrator promoted {user} to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:286
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:312
+msgid "{actor} demoted {user} from moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:288
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:314
+msgid "You demoted {user} from moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:290
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:316
+msgid "{actor} demoted you from moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:292
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:318
+msgid "An administrator demoted you from moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:295
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:321
+msgid "An administrator demoted {user} from moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:329
+msgid "{actor} shared a file which is no longer available"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:331
+msgid "You shared a file which is no longer available"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:339
+msgid ""
+"{actor} set up Matterbridge to synchronize this conversation with other "
+"chats."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:341
+msgid ""
+"You set up Matterbridge to synchronize this conversation with other chats."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:344
+msgid "{actor} updated the Matterbridge configuration."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:346
+msgid "You updated the Matterbridge configuration."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:349
+msgid "{actor} removed the Matterbridge configuration."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:351
+msgid "You removed the Matterbridge configuration."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:354
+msgid "{actor} started Matterbridge."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:356
+msgid "You started Matterbridge."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:359
+msgid "{actor} stopped Matterbridge."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:361
+msgid "You stopped Matterbridge."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:364
+msgid "{actor} deleted a message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:366
+msgid "You deleted a message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:407
+msgid "Message deleted by author"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:410
+msgid "Message deleted by {actor}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:413
+msgid "Message deleted by you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:539
+#, php-format
+msgid "%s (guest)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:553
+msgid "Call with %n guest (Duration {duration})"
+msgid_plural "Call with %n guests (Duration {duration})"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:559
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:564
+msgid "Call with {user1} and {user2} (Duration {duration})"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:566
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:572
+msgid "Call with {user1}, {user2} and {user3} (Duration {duration})"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:574
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:580
+msgid "Call with {user1}, {user2}, {user3} and {user4} (Duration {duration})"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:582
+#: /var/tmp/translationtest/spreed/lib/Chat/Parser/SystemMessage.php:588
+msgid ""
+"Call with {user1}, {user2}, {user3}, {user4} and {user5} (Duration "
+"{duration})"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/ContactsMenu/Providers/CallProvider.php:86
+#, php-format
+msgid "Talk to %s"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Controller/FilesIntegrationController.php:133
+#: /var/tmp/translationtest/spreed/lib/Controller/FilesIntegrationController.php:142
+#: /var/tmp/translationtest/spreed/lib/Controller/FilesIntegrationController.php:153
+msgid "File is not shared, or shared but not with the user"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Controller/HostedSignalingServerController.php:114
+msgid "No account available to delete."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Dashboard/TalkWidget.php:59
+msgid "Talk mentions"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Flow/Operation.php:93
+msgid "Write to conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Flow/Operation.php:97
+msgid "Writes event information into a conversation of your choice"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:131
+#, php-format
+msgid "%s invited you to a conversation."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:134
+msgid "You were invited to a conversation."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:140
+msgid "Conversation invitation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:142
+msgid "Click the button below to join."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:147
+#, php-format
+msgid "Join »%s«"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:152
+msgid "You can also dial-in via phone with the following details"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:156
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:117
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:575
+msgid "Dial-in information"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:162
+msgid "Meeting ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/GuestManager.php:168
+msgid "Your PIN"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Manager.php:875
+#, php-format
+msgid "Password request: %s"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Manager.php:881
+#: /var/tmp/translationtest/spreed/lib/Manager.php:892
+#: /var/tmp/translationtest/spreed/lib/Manager.php:910
+#: /var/tmp/translationtest/spreed/lib/Manager.php:931
+msgid "Private conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Manager.php:915
+#, php-format
+msgid "Deleted user (%s)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:364
+msgid "{user} in {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:366
+msgid "Deleted user in {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:370
+msgid "{guest} (guest) in {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:372
+msgid "Guest in {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:377
+msgid "{user} sent you a private message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:379
+msgid "{user} sent a message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:381
+msgid "A deleted user sent a message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:385
+msgid "{guest} (guest) sent a message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:387
+msgid "A guest sent a message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:392
+msgid "{user} replied to your private message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:394
+msgid "{user} replied to your message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:396
+msgid "A deleted user replied to your message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:400
+msgid "{guest} (guest) replied to your message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:402
+msgid "A guest replied to your message in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:406
+msgid "{user} mentioned you in a private conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:408
+msgid "{user} mentioned you in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:410
+msgid "A deleted user mentioned you in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:414
+msgid "{guest} (guest) mentioned you in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:416
+msgid "A guest mentioned you in conversation {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:419
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:502
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:527
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:606
+msgid "View chat"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:498
+msgid "{user} invited you to a private conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:500
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:525
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:603
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:604
+msgid "Join call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:523
+msgid "{user} invited you to a group conversation: {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:574
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:660
+msgid "Answer call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:575
+msgid "{user} would like to talk with you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:577
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:662
+msgid "Call back"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:578
+msgid "You missed a call from {user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:604
+msgid "A group call has started in {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:607
+msgid "You missed a group call in {call}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:668
+msgid "{email} is requesting the password to access {file}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:670
+msgid "{email} tried to request the password to access {file}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:686
+msgid "Someone is requesting the password to access {file}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:688
+msgid "Someone tried to request the password to access {file}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:714
+msgid "Open settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:720
+msgid "The hosted signaling server is now configured and will be used."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:723
+msgid "The hosted signaling server was removed and will not be used anymore."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Notification/Notifier.php:726
+msgid ""
+"The hosted signaling server account has changed the status from "
+"\"{oldstatus}\" to \"{newstatus}\"."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Search/ConversationSearch.php:67
+#: /var/tmp/translationtest/spreed/lib/Search/ConversationSearch.php:155
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:416
+msgid "Conversations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Search/CurrentMessageSearch.php:46
+#: /var/tmp/translationtest/spreed/lib/Search/CurrentMessageSearch.php:73
+#: /var/tmp/translationtest/spreed/lib/Search/CurrentMessageSearch.php:85
+#: /var/tmp/translationtest/spreed/lib/Search/MessageSearch.php:81
+#: /var/tmp/translationtest/spreed/lib/Search/MessageSearch.php:111
+#: /var/tmp/translationtest/spreed/lib/Search/MessageSearch.php:134
+msgid "Messages"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Search/CurrentMessageSearch.php:63
+msgid "{user}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Search/CurrentMessageSearch.php:112
+msgid "Messages in {conversation}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Search/MessageSearch.php:104
+msgid "{user} in {conversation}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Search/MessageSearch.php:113
+msgid "Messages in other conversations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:102
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:210
+msgid ""
+"Failed to request trial because the trial server is unreachable. Please try "
+"again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:112
+msgid ""
+"There is a problem with the authentication of this instance. Maybe it is not "
+"reachable from the outside to verify it's URL."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:121
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:181
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:220
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:230
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:237
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:292
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:314
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:354
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:364
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:394
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:446
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:468
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:508
+msgid "Something unexpected happened."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:149
+msgid "The URL is invalid."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:153
+msgid "An HTTPS URL is required."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:157
+msgid "The email address is invalid."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:161
+msgid "The language is invalid."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:165
+msgid "The country is invalid."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:176
+msgid ""
+"There is a problem with the request of the trial. Please check your logs for "
+"further information."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:187
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:320
+msgid ""
+"Too many requests are send from your servers address. Please try again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:193
+msgid "There is already a trial registered for this Nextcloud instance."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:199
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:332
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:486
+msgid "Something unexpected happened. Please try again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:205
+msgid ""
+"Failed to request trial because the trial server behaved wrongly. Please try "
+"again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:272
+msgid ""
+"Trial requested but failed to get account information. Please check back "
+"later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:283
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:437
+msgid ""
+"There is a problem with the authentication of this request. Maybe it is not "
+"reachable from the outside to verify it's URL."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:304
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:338
+msgid ""
+"Failed to fetch account information because the trial server behaved "
+"wrongly. Please check back later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:309
+msgid ""
+"There is a problem with fetching the account information. Please check your "
+"logs for further information."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:326
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:480
+msgid "There is no such account registered."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:343
+msgid ""
+"Failed to fetch account information because the trial server is unreachable. "
+"Please check back later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:426
+msgid ""
+"Deleting the hosted signaling server account failed. Please check back later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:458
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:492
+msgid ""
+"Failed to delete the account because the trial server behaved wrongly. "
+"Please check back later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:463
+msgid ""
+"There is a problem with deleting the account. Please check your logs for "
+"further information."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:474
+msgid ""
+"Too many requests are sent from your servers address. Please try again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Service/HostedSignalingServerService.php:497
+msgid ""
+"Failed to delete the account because the trial server is unreachable. Please "
+"check back later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:178
+msgid "Andorra"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:179
+msgid "United Arab Emirates"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:180
+msgid "Afghanistan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:181
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:182
+msgid "Anguilla"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:183
+msgid "Albania"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:184
+msgid "Armenia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:185
+msgid "Angola"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:186
+msgid "Antarctica"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:187
+msgid "Argentina"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:188
+msgid "American Samoa"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:189
+msgid "Austria"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:190
+msgid "Australia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:191
+msgid "Aruba"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:192
+msgid "Åland Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:193
+msgid "Azerbaijan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:194
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:195
+msgid "Barbados"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:196
+msgid "Bangladesh"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:197
+msgid "Belgium"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:198
+msgid "Burkina Faso"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:199
+msgid "Bulgaria"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:200
+msgid "Bahrain"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:201
+msgid "Burundi"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:202
+msgid "Benin"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:203
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:204
+msgid "Bermuda"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:205
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:206
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:207
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:208
+msgid "Brazil"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:209
+msgid "Bahamas"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:210
+msgid "Bhutan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:211
+msgid "Bouvet Island"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:212
+msgid "Botswana"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:213
+msgid "Belarus"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:214
+msgid "Belize"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:215
+msgid "Canada"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:216
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:217
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:218
+msgid "Central African Republic"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:219
+msgid "Congo"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:220
+msgid "Switzerland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:221
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:222
+msgid "Cook Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:223
+msgid "Chile"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:224
+msgid "Cameroon"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:225
+msgid "China"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:226
+msgid "Colombia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:227
+msgid "Costa Rica"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:228
+msgid "Cuba"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:229
+msgid "Cabo Verde"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:230
+msgid "Curaçao"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:231
+msgid "Christmas Island"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:232
+msgid "Cyprus"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:233
+msgid "Czechia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:234
+msgid "Germany"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:235
+msgid "Djibouti"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:236
+msgid "Denmark"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:237
+msgid "Dominica"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:238
+msgid "Dominican Republic"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:239
+msgid "Algeria"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:240
+msgid "Ecuador"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:241
+msgid "Estonia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:242
+msgid "Egypt"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:243
+msgid "Western Sahara"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:244
+msgid "Eritrea"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:245
+msgid "Spain"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:246
+msgid "Ethiopia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:247
+msgid "Finland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:248
+msgid "Fiji"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:249
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:250
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:251
+msgid "Faroe Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:252
+msgid "France"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:253
+msgid "Gabon"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:254
+msgid "United Kingdom of Great Britain and Northern Ireland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:255
+msgid "Grenada"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:256
+msgid "Georgia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:257
+msgid "French Guiana"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:258
+msgid "Guernsey"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:259
+msgid "Ghana"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:260
+msgid "Gibraltar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:261
+msgid "Greenland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:262
+msgid "Gambia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:263
+msgid "Guinea"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:264
+msgid "Guadeloupe"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:265
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:266
+msgid "Greece"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:267
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:268
+msgid "Guatemala"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:269
+msgid "Guam"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:270
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:271
+msgid "Guyana"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:272
+msgid "Hong Kong"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:273
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:274
+msgid "Honduras"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:275
+msgid "Croatia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:276
+msgid "Haiti"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:277
+msgid "Hungary"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:278
+msgid "Indonesia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:279
+msgid "Ireland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:280
+msgid "Israel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:281
+msgid "Isle of Man"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:282
+msgid "India"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:283
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:284
+msgid "Iraq"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:285
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:286
+msgid "Iceland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:287
+msgid "Italy"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:288
+msgid "Jersey"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:289
+msgid "Jamaica"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:290
+msgid "Jordan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:291
+msgid "Japan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:292
+msgid "Kenya"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:293
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:294
+msgid "Cambodia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:295
+msgid "Kiribati"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:296
+msgid "Comoros"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:297
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:298
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:299
+msgid "Korea, Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:300
+msgid "Kuwait"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:301
+msgid "Cayman Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:302
+msgid "Kazakhstan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:303
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:304
+msgid "Lebanon"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:305
+msgid "Saint Lucia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:306
+msgid "Liechtenstein"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:307
+msgid "Sri Lanka"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:308
+msgid "Liberia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:309
+msgid "Lesotho"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:310
+msgid "Lithuania"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:311
+msgid "Luxembourg"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:312
+msgid "Latvia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:313
+msgid "Libya"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:314
+msgid "Morocco"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:315
+msgid "Monaco"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:316
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:317
+msgid "Montenegro"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:318
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:319
+msgid "Madagascar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:320
+msgid "Marshall Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:321
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:322
+msgid "Mali"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:323
+msgid "Myanmar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:324
+msgid "Mongolia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:325
+msgid "Macao"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:326
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:327
+msgid "Martinique"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:328
+msgid "Mauritania"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:329
+msgid "Montserrat"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:330
+msgid "Malta"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:331
+msgid "Mauritius"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:332
+msgid "Maldives"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:333
+msgid "Malawi"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:334
+msgid "Mexico"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:335
+msgid "Malaysia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:336
+msgid "Mozambique"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:337
+msgid "Namibia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:338
+msgid "New Caledonia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:339
+msgid "Niger"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:340
+msgid "Norfolk Island"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:341
+msgid "Nigeria"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:342
+msgid "Nicaragua"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:343
+msgid "Netherlands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:344
+msgid "Norway"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:345
+msgid "Nepal"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:346
+msgid "Nauru"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:347
+msgid "Niue"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:348
+msgid "New Zealand"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:349
+msgid "Oman"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:350
+msgid "Panama"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:351
+msgid "Peru"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:352
+msgid "French Polynesia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:353
+msgid "Papua New Guinea"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:354
+msgid "Philippines"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:355
+msgid "Pakistan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:356
+msgid "Poland"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:357
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:358
+msgid "Pitcairn"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:359
+msgid "Puerto Rico"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:360
+msgid "Palestine, State of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:361
+msgid "Portugal"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:362
+msgid "Palau"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:363
+msgid "Paraguay"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:364
+msgid "Qatar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:365
+msgid "Réunion"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:366
+msgid "Romania"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:367
+msgid "Serbia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:368
+msgid "Russian Federation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:369
+msgid "Rwanda"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:370
+msgid "Saudi Arabia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:371
+msgid "Solomon Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:372
+msgid "Seychelles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:373
+msgid "Sudan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:374
+msgid "Sweden"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:375
+msgid "Singapore"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:376
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:377
+msgid "Slovenia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:378
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:379
+msgid "Slovakia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:380
+msgid "Sierra Leone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:381
+msgid "San Marino"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:382
+msgid "Senegal"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:383
+msgid "Somalia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:384
+msgid "Suriname"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:385
+msgid "South Sudan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:386
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:387
+msgid "El Salvador"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:388
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:389
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:390
+msgid "Eswatini"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:391
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:392
+msgid "Chad"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:393
+msgid "French Southern Territories"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:394
+msgid "Togo"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:395
+msgid "Thailand"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:396
+msgid "Tajikistan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:397
+msgid "Tokelau"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:398
+msgid "Timor-Leste"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:399
+msgid "Turkmenistan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:400
+msgid "Tunisia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:401
+msgid "Tonga"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:402
+msgid "Turkey"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:403
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:404
+msgid "Tuvalu"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:405
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:406
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:407
+msgid "Ukraine"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:408
+msgid "Uganda"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:409
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:410
+msgid "United States of America"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:411
+msgid "Uruguay"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:412
+msgid "Uzbekistan"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:413
+msgid "Holy See"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:414
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:415
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:416
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:417
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:418
+msgid "Viet Nam"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:419
+msgid "Vanuatu"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:420
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:421
+msgid "Samoa"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:422
+msgid "Yemen"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:423
+msgid "Mayotte"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:424
+msgid "South Africa"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:425
+msgid "Zambia"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Settings/Admin/AdminSettings.php:426
+msgid "Zimbabwe"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Share/Helper/ShareAPIController.php:122
+msgid "Invalid date, date format must be YYYY-MM-DD"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Share/RoomShareProvider.php:168
+#: /var/tmp/translationtest/spreed/lib/Share/RoomShareProvider.php:172
+#: /var/tmp/translationtest/spreed/lib/Share/RoomShareProvider.php:180
+msgid "Conversation not found"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/lib/Share/RoomShareProvider.php:188
+msgid "Path is already shared with this room"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "Chat, video & audio-conferencing using WebRTC"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"Chat, video & audio-conferencing using WebRTC\n"
+"\n"
+"* 💬 **Chat integration!** Nextcloud Talk comes with a simple text chat. "
+"Allowing you to share files from your Nextcloud and mentioning other "
+"participants.\n"
+"* 👥 **Private, group, public and password protected calls!** Just invite "
+"somebody, a whole group or send a public link to invite to a call.\n"
+"* 💻 **Screen sharing!** Share your screen with participants of your call. "
+"You just need to use Firefox version 52 (or newer), latest Edge or Chrome 49 "
+"(or newer) with this [Chrome extension](https://chrome.google.com/webstore/"
+"detail/screensharing-for-nextclo/kepnpjhambipllfmgmbapncekcmabkol).\n"
+"* 🚀 **Integration with other Nextcloud apps** like Files, Contacts and Deck. "
+"More to come.\n"
+"\n"
+"And in the works for the [coming versions](https://github.com/nextcloud/"
+"spreed/milestones/):\n"
+"* ✋ [Federated calls](https://github.com/nextcloud/spreed/issues/21), to "
+"call people on other Nextclouds"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:1
+msgid "Navigating away from the page will leave the call in {conversation}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:2
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:3
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:603
+msgid "Leave call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:4
+msgid "Stay in call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:5
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:6
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:637
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:639
+#: /var/tmp/translationtest/spreed/src/services/participantsService.js:102
+msgid "Duplicate session"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:11
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:14
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:19
+msgid "Discuss this file"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:12
+msgid "Share this file with others to discuss it"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:13
+msgid "Share this file"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:15
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:20
+msgid "Join conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:16
+msgid "Request password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:17
+msgid "Error requesting the password."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:18
+msgid "This conversation has ended"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:21
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:14
+msgid "Limit to groups"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:22
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:15
+msgid ""
+"When at least one group is selected, only people of the listed groups can be "
+"part of conversations."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:23
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:16
+msgid "Guests can still join public conversations."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:24
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:17
+msgid ""
+"Users that can not use Talk anymore will still be listed as participants in "
+"their previous conversations and also their chat messages will be kept."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:25
+msgid "Limit using Talk"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:26
+msgid "Limit creating a public and group conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:27
+msgid "Limit creating conversations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:28
+msgid "Limit starting a call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:29
+msgid "Limit starting calls"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:30
+msgid ""
+"When a call has started, everyone with access to the conversation can join "
+"the call."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:31
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:44
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:48
+msgid "Everyone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:32
+msgid "Users and moderators"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:33
+msgid "Moderators only"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:34
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:35
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:38
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:41
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:120
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:123
+msgid "Save changes"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:36
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:39
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:121
+msgid "Saving …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:37
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:40
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:122
+msgid "Saved!"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:42
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:472
+msgid "None"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:43
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:331
+msgid "User"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:45
+msgid "Disabled"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:46
+msgid "Moderators"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:47
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:418
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:419
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:430
+msgid "Users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:49
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:21
+msgid "Commands"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:50
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:98
+msgid "Beta"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:51
+msgid "Name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:52
+msgid "Command"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:53
+msgid "Script"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:54
+msgid "Response to"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:55
+msgid "Enabled for"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:56
+msgid ""
+"Commands are a new beta feature in Nextcloud Talk. They allow you to run "
+"scripts on your Nextcloud server. You can define them with our command line "
+"interface. An example of a calculator script can be found in our {linkstart}"
+"documentation{linkend}."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:57
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:10
+msgid "General settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:58
+msgid "Default notification settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:59
+msgid "Default group notification"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:60
+msgid "Default group notification for new groups"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:61
+msgid "Integration into other apps"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:62
+msgid "Allow conversations on files"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:63
+msgid "Allow conversations on public shares for files"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:384
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:398
+msgid "All messages"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:385
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:399
+msgid "@-mentions only"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:66
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:386
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:400
+msgid "Off"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:67
+msgid "Hosted high-performance backend"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:68
+msgid ""
+"Our partner Struktur AG provides a service where a hosted signaling server "
+"can be requested. For this you only need to fill out the form below and your "
+"Nextcloud will request it. Once the server is set up for you the credentials "
+"will be filled automatically. This will overwrite the existing signaling "
+"server settings."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:69
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:70
+msgid "URL of this Nextcloud instance"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:71
+msgid "Full name of the user requesting the trial"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:72
+msgid "Name of the user requesting the trial"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:73
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:74
+msgid "E-mail of the user"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:75
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:76
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:77
+msgid "Language"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:78
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:79
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:80
+msgid "Country"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:81
+msgid "Request signaling server trial"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:82
+msgid ""
+"You can see the current status of your hosted signaling server in the "
+"following table."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:83
+msgid "Status"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:84
+msgid "Created at"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:85
+msgid "Expires at"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:86
+msgid "Limits"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:87
+msgid "Delete the signaling server account"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:88
+msgid ""
+"By clicking the button above the information in the form is sent to the "
+"servers of Struktur AG. You can find further information at {linkstart}"
+"spreed.eu{linkend}."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:89
+msgid "Pending"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:90
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:442
+msgid "Error"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:91
+msgid "Blocked"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:92
+msgid "Active"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:93
+msgid "Expired"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:94
+msgid "The trial could not be requested. Please try again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:95
+msgid "The account could not be deleted. Please try again later."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:96
+msgid "%n user"
+msgid_plural "%n users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:97
+msgid "Matterbridge integration"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:99
+msgid "Enable Matterbridge integration"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:100
+msgid "Downloading …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:101
+msgid "Install Talk Matterbridge"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:102
+msgid "Installed version: {version}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:103
+msgid ""
+"You can install the Matterbridge to link Nextcloud Talk to some other "
+"services, visit their {linkstart1}GitHub page{linkend} for more details. "
+"Downloading and installing the app can take a while. In case it times out, "
+"please install it manually from the {linkstart2}appstore{linkend}."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:104
+msgid ""
+"Matterbridge binary has incorrect permissions. Please make sure the "
+"Matterbridge binary file is owned by the correct user and can be executed. "
+"It can be found in \"/.../nextcloud/apps/talk_matterbridge/bin/\"."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:105
+msgid "Matterbridge binary was not found or couldn't be executed."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:106
+msgid ""
+"You can also set the path to the Matterbridge binary manually via the "
+"config. Check the {linkstart}Matterbridge integration documentation{linkend} "
+"for more information."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:107
+msgid "An error occurred while installing the Matterbridge app."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:108
+msgid ""
+"An error occurred while installing the Talk Matterbridge. Please install it "
+"manually."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:109
+msgid "Failed to execute Matterbridge binary."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:110
+msgid "SIP configuration"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:111
+msgid "Restrict SIP configuration"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:112
+msgid ""
+"Only users of the following groups can enable SIP in conversations they "
+"moderate"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:113
+msgid "Enable SIP configuration"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:114
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:115
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:116
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:141
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:142
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:143
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:52
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:54
+msgid "Shared secret"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:118
+msgid ""
+"This information is sent in invitation emails as well as displayed in the "
+"sidebar to all participants."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:119
+msgid "Phone number (Country)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:124
+msgid "High-performance backend URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:125
+msgid "Validate SSL certificate"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:126
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:145
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:161
+msgid "Delete this server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:127
+msgid "Status: Checking connection"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:128
+msgid "OK: Running version: {version}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:129
+msgid "Error: Can not connect to server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:130
+msgid "Error: Server did not respond with proper JSON"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:131
+msgid "Error: Server responded with: {error}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:132
+msgid "Error: Unknown error occurred"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:133
+msgid "High-performance backend"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:134
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:147
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:168
+msgid "Saved"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:135
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:136
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:148
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:149
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:169
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:170
+msgid "Add a new server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:137
+msgid ""
+"An external signaling server should optionally be used for larger "
+"installations. Leave empty to use the internal signaling server."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:138
+msgid ""
+"Please note that calls with more than 4 participants without external "
+"signaling server, participants can experience connectivity issues and cause "
+"high load on participating devices."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:139
+msgid ""
+"It is highly recommended to set up a distributed cache when using Nextcloud "
+"Talk together with a High Performance Back-end."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:140
+msgid ""
+"Don't warn about connectivity issues in calls with more than 4 participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:144
+msgid "STUN server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:146
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:29
+msgid "STUN servers"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:150
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:30
+msgid ""
+"A STUN server is used to determine the public IP address of participants "
+"behind a router."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:151
+msgid "TURN server schemes"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:152
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:158
+msgid "{option1} and {option2}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:153
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:154
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:159
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:160
+msgid "{option} only"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:155
+msgid "TURN server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:156
+msgid "TURN server secret"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:157
+msgid "TURN server protocols"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:162
+msgid "{schema} scheme must be used with a domain"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:163
+msgid "OK: Successful ICE candidates returned by the TURN server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:164
+msgid "Error: No working ICE candidates returned by the TURN server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:165
+msgid "Testing whether the TURN server returns ICE candidates"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:166
+msgid "Test this server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:167
+msgid "TURN servers"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:171
+msgid ""
+"A TURN server is used to proxy the traffic from participants behind a "
+"firewall. If individual participants can not connect to others a TURN server "
+"is most likely required. See {linkstart}this documentation{linkend} for "
+"setup instructions."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:174
+msgid "{nickName} raised their hand."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:175
+msgid "A participant raised their hand."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:176
+msgid "Previous page of videos"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:177
+msgid "Next page of videos"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:178
+msgid "Collapse stripe"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:179
+msgid "Expand stripe"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:180
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:395
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:612
+msgid "Copy link"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:181
+msgid "Connecting …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:182
+msgid "Waiting for others to join the call …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:183
+msgid "You can invite others in the participant tab of the sidebar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:184
+msgid ""
+"You can invite others in the participant tab of the sidebar or share this "
+"link to invite others!"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:185
+msgid "Share this link to invite others!"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:186
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:289
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:408
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:619
+msgid "Conversation link copied to clipboard."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:187
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:290
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:409
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:493
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:620
+msgid "The link could not be copied."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:188
+msgid "Share whole screen"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:189
+msgid "Share a single window"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:190
+msgid "Show your screen"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:191
+msgid "Stop screensharing"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:192
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:193
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:199
+msgid "Lower hand"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:194
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:195
+msgid "More actions"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:196
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:573
+msgid "Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:197
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:621
+msgid "Dismiss"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:198
+msgid "Raise hand"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:200
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:202
+msgid "No audio"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:201
+msgid "Mute audio (m)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:201
+msgid "Unmute audio (m)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:203
+msgid "Mute audio"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:203
+msgid "Unmute audio"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:204
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:208
+msgid "No camera"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:205
+msgid "Disable video (v)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:206
+msgid "Enable video (v)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:207
+msgid ""
+"Enable video (v) - Your connection will be briefly interrupted when enabling "
+"the video for the first time"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:209
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:222
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:226
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:230
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:250
+msgid "Disable video"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:210
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:251
+msgid "Enable video"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:211
+msgid ""
+"Enable video. Your connection will be briefly interrupted when enabling the "
+"video for the first time"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:212
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:213
+msgid "Screensharing options"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:212
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:213
+msgid "Enable screensharing"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:214
+msgid "Bad sent video and screen quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:215
+msgid "Bad sent screen quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:216
+msgid "Bad sent video quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:217
+msgid "Bad sent audio, video and screen quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:218
+msgid "Bad sent audio and screen quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:219
+msgid "Bad sent audio and video quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:220
+msgid "Bad sent audio quality."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:221
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to see you. To improve the situation try to disable your video "
+"while doing a screenshare."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:223
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to see your screen."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:224
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to see you."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:225
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to understand and see you. To improve the situation try to disable "
+"your video while doing a screenshare."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:227
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to understand and see your screen. To improve the situation try to "
+"disable your screenshare."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:228
+msgid "Disable screenshare"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:229
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to understand and see you. To improve the situation try to disable "
+"your video."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:231
+msgid ""
+"Your internet connection or computer are busy and other participants might "
+"be unable to understand you."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:232
+msgid "Screen sharing is not supported by your browser."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:233
+msgid "Screen sharing requires the page to be loaded through HTTPS."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:234
+msgid "Screensharing requires the page to be loaded through HTTPS."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:235
+msgid "Sharing your screen only works with Firefox version 52 or newer."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:236
+msgid "Screensharing extension is required to share your screen."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:237
+msgid ""
+"Please use a different browser like Firefox or Chrome to share your screen."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:238
+msgid "An error occurred while starting screensharing."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:239
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:447
+msgid "Back"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:241
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:464
+msgid "Access to camera was denied"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:242
+msgid "Error while accessing camera: it is likely in use by another program"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:243
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:465
+msgid "Error while accessing camera"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:244
+msgid "You have been muted by a moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:245
+msgid "You"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:248
+msgid "Show screen"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:249
+msgid "Mute"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:252
+msgid "Stop following"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:253
+msgid "Conversation messages"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:254
+msgid "Post message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:255
+msgid "You need to be logged in to upload files"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:256
+msgid "This conversation is read-only"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:257
+msgid "Drop your files to upload"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:258
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:627
+msgid "Call in progress"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:259
+msgid "Favorite"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:260
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:263
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:614
+msgid "Conversation settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:261
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:397
+msgid "Chat notifications"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:262
+msgid "Guests access"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:264
+msgid "Meeting settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:265
+msgid "Matterbridge"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:266
+msgid "Danger zone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:267
+msgid "Be careful, these actions cannot be undone."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:268
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:401
+msgid "Leave conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:269
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:272
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:402
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:411
+msgid "Delete conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:270
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:413
+msgid ""
+"You need to promote a new moderator before you can leave the conversation."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:271
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:410
+msgid "Do you really want to delete \"{displayName}\"?"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:273
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:412
+msgid "Error while deleting conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:274
+msgid "Allow guests to use a public link to join this conversation."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:275
+msgid "Allow guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:276
+msgid "Set a password to restrict who can use the public link."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:277
+msgid "Password protection"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:278
+msgid "Enter a password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:279
+msgid "Save password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:280
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:439
+msgid "Copy conversation link"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:281
+msgid "Resend invitations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:282
+msgid "Conversation password has been saved"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:283
+msgid "Conversation password has been removed"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:284
+msgid "Error occurred while saving conversation password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:287
+msgid "Error occurred while allowing guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:288
+msgid "Error occurred while disallowing guests"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:291
+msgid "Invitations sent"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:292
+msgid "Error occurred when sending invitations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:293
+msgid "Open conversation to registered users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:294
+msgid "This conversation will be shown in search results"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:295
+msgid "Also open to guest app users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:299
+msgid "Error occurred when opening or limiting the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:300
+msgid "Enabling the lobby only allows moderators to post messages."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:301
+msgid "This will also remove non-moderators from the ongoing call."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:302
+msgid "Enable lobby"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:303
+msgid "After the time limit the lobby will be automatically disabled."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:304
+msgid "Meeting start time"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:305
+msgid "Start time (optional)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:308
+msgid "Error occurred when restricting the conversation to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:309
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:525
+msgid "Error occurred when opening the conversation to everyone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:310
+msgid "Start time has been updated"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:311
+msgid "Error occurred while updating start time"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:312
+msgid ""
+"Locking the conversation prevents anyone to post messages or start calls."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:313
+msgid "This will also terminate the ongoing call."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:314
+msgid "Lock conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:317
+msgid "Error occurred when locking the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:318
+msgid "Error occurred when unlocking the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:319
+msgid "Save"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:319
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:579
+msgid "Edit"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:320
+msgid "More information"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:321
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:478
+msgid "Delete"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:322
+msgid ""
+"You can bridge channels from various instant messaging systems with "
+"Matterbridge."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:323
+msgid "More info on Matterbridge"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:324
+msgid "Enable bridge"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:325
+msgid "Show Matterbridge log"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:326
+msgid "Nextcloud URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:327
+msgid "Nextcloud user"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:328
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:332
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:336
+msgid "User password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:329
+msgid "Talk conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:330
+msgid "Matrix server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:333
+msgid "Matrix channel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:334
+msgid "Mattermost server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:335
+msgid "Mattermost user"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:337
+msgid "Team name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:338
+msgid "Channel name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:339
+msgid "Rocket.Chat server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:340
+msgid "User name or e-mail address"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:341
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:355
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:375
+#: /var/tmp/translationtest/spreed/templates/authenticate.php:15
+#: /var/tmp/translationtest/spreed/templates/authenticate.php:18
+msgid "Password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:342
+msgid "Rocket.Chat channel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:343
+msgid "Zulip server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:344
+msgid "Bot user name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:345
+msgid "Bot API key"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:346
+msgid "Zulip channel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:347
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:349
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:352
+msgid "API token"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:348
+msgid "Slack channel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:350
+msgid "Server ID or name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:351
+msgid "Channel ID or name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:353
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:376
+msgid "Channel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:354
+msgid "Login"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:356
+msgid "Chat ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:357
+msgid "IRC server URL (e.g. chat.freenode.net:6667)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:358
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:374
+msgid "Nickname"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:359
+msgid "Connection password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:360
+msgid "IRC channel"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:361
+msgid "Channel password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:362
+msgid "NickServ nickname"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:363
+msgid "NickServ password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:364
+msgid "Use TLS"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:365
+msgid "Use SASL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:366
+msgid "Skip TLS verification"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:367
+msgid "Tenant ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:368
+msgid "Client ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:369
+msgid "Team ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:370
+msgid "Thread ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:371
+msgid "XMPP/Jabber server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:372
+msgid "MUC server URL"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:373
+msgid "Jabber ID"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:377
+msgid "Add new bridged channel to current conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:378
+msgid "unknown state"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:379
+msgid "running"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:380
+msgid "not running, check Matterbridge log"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:381
+msgid "not running"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:382
+msgid "Bridge saved"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:383
+msgid ""
+"Set the notification level for the current conversation. This will affect "
+"only the notifications you receive."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:387
+msgid "Allow participants to join from a phone."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:388
+msgid "Enable SIP dial-in"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:389
+msgid "SIP dial-in is now enabled"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:390
+msgid "SIP dial-in is now disabled"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:391
+msgid "Error occurred when enabling SIP dial-in"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:392
+msgid "Error occurred when disabling SIP dial-in"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:393
+msgid "Conversation \"{conversationName}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:394
+msgid "Settings for conversation \"{conversationName}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:396
+msgid "Mark as read"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:403
+msgid "Remove from favorites"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:403
+msgid "Add to favorites"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:404
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:510
+msgid "Joining conversation …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:405
+msgid "You: {lastMessage}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:406
+msgid "{actor}: {lastMessage}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:414
+msgid "No matches"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:415
+msgid "Conversation list"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:417
+msgid "Open conversations"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:420
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:424
+msgid "Loading"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:421
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:425
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:526
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:552
+msgid "No search results"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:422
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:432
+msgid "Groups"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:423
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:433
+msgid "Circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:426
+msgid "Talk settings"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:427
+msgid "Users, groups and circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:428
+msgid "Users and groups"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:429
+msgid "Users and circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:431
+msgid "Groups and circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:434
+msgid "Other sources"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:435
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:436
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:452
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:566
+msgid "An error occurred while performing the search"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:437
+msgid "Creating your conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:438
+msgid "All set"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:440
+msgid "Error while creating the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:441
+msgid "Link copied to the clipboard!"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:443
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:444
+msgid "Create a new group conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:445
+msgid "Password protect"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:446
+msgid "Add participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:448
+msgid "Create conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:449
+msgid "Close"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:450
+msgid "Choose a password"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:451
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:565
+msgid "Search participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:453
+msgid "Conversation name"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:454
+msgid "Allow guests to join via link"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:455
+msgid "Search conversations or users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:456
+msgid "You are currently waiting in the lobby"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:457
+msgid ""
+"You are currently waiting in the lobby. This meeting is scheduled for "
+"{startTime}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:458
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:462
+msgid "Calls are not supported in your browser"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:459
+msgid "Access to microphone is only possible with HTTPS"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:460
+msgid "Access to microphone was denied"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:461
+msgid "Error while accessing microphone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:463
+msgid "Access to camera is only possible with HTTPS"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:466
+msgid "Microphone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:467
+msgid "Camera"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:468
+msgid "No microphone available"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:469
+msgid "Select microphone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:470
+msgid "No camera available"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:471
+msgid "Select camera"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:474
+msgid "Reply"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:475
+msgid "Reply privately"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:476
+msgid "Copy message link"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:477
+msgid "Mark as unread"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:479
+msgid "Unread messages"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:480
+msgid "Sending message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:481
+msgid "Message sent"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:482
+msgid "Message read by everyone who shares their reading status"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:483
+msgid "Failed to send the message. Click to try again"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:484
+msgid "Not enough free space to upload file"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:485
+msgid "You can not send messages to this conversation at the moment"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:486
+msgid "Deleting message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:487
+msgid ""
+"Message deleted successfully, but Matterbridge is configured and the message "
+"might already be distributed to other services"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:488
+msgid "Message deleted successfully"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:489
+msgid "Message could not be deleted because it is too old"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:490
+msgid "Only normal chat messages can be deleted"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:491
+msgid "An error occurred while deleting the message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:492
+msgid "Message link copied to clipboard."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:494
+msgid "{stack} in {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:495
+msgid "Deck Card"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:496
+msgid "Remove"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:497
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:517
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:540
+msgid "[Unknown username]"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:498
+msgid "Scroll to bottom"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:499
+msgid "Today"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:500
+msgid "Yesterday"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:501
+msgid "{relativeDate}, {absoluteDate}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:503
+msgid "Share files to the conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:504
+msgid "Upload new files"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:505
+msgid "Share from Files"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:506
+msgid "Add emoji"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:507
+msgid "Send message"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:508
+msgid "File to share"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:509
+msgid "This conversation has been locked"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:511
+msgid "Write message, @ to mention someone …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:512
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:513
+#: /var/tmp/translationtest/spreed/src/deck.js:49
+msgid "No permission to post messages in this conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:514
+msgid "Could not post message: {errorMessage}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:515
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:599
+msgid "Invalid path selected"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:518
+msgid "Cancel editing description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:519
+msgid "Submit conversation description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:520
+msgid "Edit conversation description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:521
+msgid "Description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:522
+msgid ""
+"The description must be less than or equal to {maxLength} characters long. "
+"Your current text is {charactersCount} characters long."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:523
+msgid "Disable lobby"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:527
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:537
+msgid "moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:528
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:538
+msgid "guest"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:529
+msgid "Dial-in PIN"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:530
+msgid "Demote from moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:531
+msgid "Promote to moderator"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:532
+msgid "Resend invitation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:533
+msgid "Remove participant"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:534
+msgid "Settings for participant \"{user}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:535
+msgid "Add participant \"{user}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:536
+msgid "Participant \"{user}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:541
+msgid "Joined with audio"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:542
+msgid "Joined with video"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:543
+msgid "Joined via phone"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:544
+msgid "Raised their hand"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:545
+msgid "Invitation was sent to {actorId}."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:546
+msgid "Could not send invitation to {actorId}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:547
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:558
+msgid "Add users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:548
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:560
+msgid "Add groups"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:549
+msgid "Add emails"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:550
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:561
+msgid "Add circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:551
+msgid "Searching …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:553
+msgid "No results"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:554
+msgid "Search for more users"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:555
+msgid "Add users, groups or circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:556
+msgid "Add users or groups"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:557
+msgid "Add users or circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:559
+msgid "Add groups or circles"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:562
+msgid "Add other sources"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:563
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:571
+msgid "Participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:564
+msgid "Search or add participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:567
+msgid "An error occurred while adding the participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:568
+msgid "An error occurred while fetching the participants"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:569
+msgid "Add a description for this conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:570
+#: /var/tmp/translationtest/spreed/src/mainFilesSidebarLoader.js:61
+msgid "Chat"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:572
+msgid "Details"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:574
+msgid "Error while updating conversation description"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:576
+msgid "Meeting ID: {meetingId}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:577
+msgid "Your PIN: {attendeePin}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:578
+msgid "Display name: "
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:581
+msgid "Choose devices"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:582
+msgid "Attachments folder"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:583
+msgid "Privacy"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:584
+msgid "Share my read-status and show the read-status of others"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:585
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:586
+msgid "Speed up your Talk experience with these quick shortcuts."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:587
+msgid "Focus the chat input"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:588
+msgid "Unfocus the chat input to use shortcuts"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:589
+msgid "Fullscreen the chat or call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:590
+msgid "Search"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:591
+msgid "Shortcuts while in a call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:592
+msgid "Video on and off"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:593
+msgid "Microphone on and off"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:594
+msgid "Space bar"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:595
+msgid "Push to talk or push to mute"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:596
+msgid "Raise or lower hand"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:597
+msgid "Choose in which folder attachments should be saved."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:598
+msgid "Select location for attachments"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:600
+msgid "Error while setting attachment folder"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:601
+msgid "Your privacy setting has been saved"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:602
+msgid "Error while setting read status privacy"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:605
+msgid "Start call"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:606
+msgid ""
+"Nextcloud Talk was updated, you need to reload the page before you can start "
+"or join a call."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:607
+msgid "You will be able to join the call only after a moderator starts it."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:608
+msgid "Conversation actions"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:609
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:610
+msgid "Go to file"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:611
+msgid "Rename conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:613
+msgid "Mute others"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:615
+msgid "Exit fullscreen (f)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:616
+msgid "Fullscreen (f)"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:617
+msgid "Speaker view"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:618
+msgid "Grid view"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:622
+msgid "Send"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:623
+msgid "Add more files"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:624
+msgid "No unread mentions"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:625
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:641
+msgid "Say hi to your friends and colleagues!"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:626
+msgid "Start a conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:628
+msgid "You were mentioned"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:629
+msgid "Message without mention"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:630
+msgid "Mention myself"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:631
+msgid "Mention room"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:632
+msgid "The conversation does not exist"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:633
+msgid "Join a conversation or start a new one!"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:634
+msgid "No conversations found"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:635
+msgid "Select conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:636
+#: /var/tmp/translationtest/spreed/src/collections.js:61
+msgid "Link to a conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:638
+msgid ""
+"You joined the conversation in another window or device. This is currently "
+"not supported by Nextcloud Talk so this session was closed."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:640
+msgid "Join a conversation or start a new one"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/deck.js:41
+msgid ""
+"Deck card has been posted to the selected <a href=\"{link}\">conversation</"
+"a>."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/deck.js:51
+msgid "An error occurred while posting deck card to conversation."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/deck.js:62
+msgid "Post to a conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/deck.js:74
+msgid "Post to conversation"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/mixins/browserCheck.js:85
+msgid ""
+"The browser you're using is not fully supported by Nextcloud Talk. Please "
+"use the latest version of Mozilla Firefox, Microsoft Edge, Google Chrome, "
+"Opera or Apple Safari."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/mixins/talkHashCheck.js:53
+msgid "Nextcloud Talk was updated, please reload the page"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/mixins/userStatus.js:34
+msgid "Do not disturb"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/mixins/userStatus.js:36
+msgid "Away"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/services/conversationsService.js:48
+#: /var/tmp/translationtest/spreed/src/services/conversationsService.js:74
+msgid "Nextcloud is in maintenance mode, please reload the page"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/services/filesSharingServices.js:53
+msgid "Error while sharing file"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/services/participantsService.js:83
+msgid "Failed to join the conversation. Try to reload the page."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/services/participantsService.js:101
+msgid ""
+"You are trying to join a conversation while having an active session in "
+"another window or device. This is currently not supported by Nextcloud Talk. "
+"What do you want to do?"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/services/participantsService.js:105
+msgid "Join here"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/services/participantsService.js:107
+msgid "Leave this page"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/store/fileUploadStore.js:269
+msgid "Not enough free space to upload file \"{fileName}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/store/fileUploadStore.js:271
+msgid "Error while uploading file \"{fileName}\""
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:360
+msgid "Sending signaling message has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:454
+msgid "Lost connection to signaling server. Trying to reconnect."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:464
+msgid "Lost connection to signaling server. Try to reload the page manually."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:560
+msgid "Establishing signaling connection is taking longer than expected …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:599
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:852
+msgid "Failed to establish signaling connection. Retrying …"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/signaling.js:862
+msgid ""
+"Failed to establish signaling connection. Something might be wrong in the "
+"signaling server configuration"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/MediaDevicesManager.js:305
+msgid "Default"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/MediaDevicesManager.js:307
+msgid "Microphone {number}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/MediaDevicesManager.js:309
+msgid "Camera {number}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/MediaDevicesManager.js:311
+msgid "Speaker {number}"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/SpeakingWhileMutedWarner.js:88
+msgid ""
+"You seem to be talking while muted, please unmute yourself for others to "
+"hear you"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:585
+msgid ""
+"Could not establish a connection with at least one participant. A TURN "
+"server might be needed for your scenario. Please ask your administrator to "
+"set one up following {linkstart}this documentation{linkend}."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:899
+msgid ""
+"This is taking longer than expected. Are the media permissions already "
+"granted (or rejected)? If yes please restart your browser, as audio and "
+"video are failing"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:933
+msgid "Access to microphone & camera is only possible with HTTPS"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:934
+msgid "Please move your setup to HTTPS"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:936
+msgid "Access to microphone & camera was denied"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:941
+msgid "WebRTC is not supported in your browser"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:942
+msgid "Please use a different browser like Firefox or Chrome"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/src/utils/webrtc/webrtc.js:946
+msgid "Error while accessing microphone & camera"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/authenticate.php:10
+msgid "This conversation is password-protected"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/authenticate.php:12
+msgid "The password is wrong. Try again."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:22
+msgid "Specify commands the users can use in chats"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:37
+msgid "TURN server"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:38
+msgid ""
+"The TURN server is used to proxy the traffic from participants behind a "
+"firewall."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:45
+msgid "Signaling servers"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/admin-settings.php:46
+msgid ""
+"An external signaling server can optionally be used for larger "
+"installations. Leave empty to use the internal signaling server."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/personal/clients.php:29
+#, php-format
+msgid "%s Talk on your mobile devices"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/personal/clients.php:31
+msgid "Join conversations at any time, anywhere, on any device."
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/personal/clients.php:36
+msgid "Android app"
+msgstr ""
+
+#: /var/tmp/translationtest/spreed/templates/settings/personal/clients.php:40
+msgid "iOS app"
+msgstr ""

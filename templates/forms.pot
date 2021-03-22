@@ -1,0 +1,598 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/tmp/translationtest/forms/lib/Activity/Filter.php:60
+#: /var/tmp/translationtest/forms/lib/Activity/Settings/FormsActivitySettings20.php:54
+#: /var/tmp/translationtest/forms/lib/Activity/Settings/FormsActivitySettingsLegacy.php:54
+#: /var/tmp/translationtest/forms/lib/Controller/PageController.php:217
+#: /var/tmp/translationtest/forms/specialAppInfoFakeDummyForL10nScript.php:2
+#: /var/tmp/translationtest/forms/src/utils/SetWindowTitle.js:29
+#: /var/tmp/translationtest/forms/src/utils/SetWindowTitle.js:31
+msgid "Forms"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Activity/Provider.php:126
+msgid "{user} has shared the form {formTitle} with you"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Activity/Provider.php:129
+msgid "{user} has shared the form {formTitle} with group {group}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Activity/Provider.php:132
+msgid "{user} answered your form {formTitle}"
+msgstr ""
+
+#. TRANSLATORS Shown as a users display-name
+#. TRANSLATORS Shown on export if no Display-Name is available.
+#: /var/tmp/translationtest/forms/lib/Activity/Provider.php:197
+#: /var/tmp/translationtest/forms/lib/Service/SubmissionService.php:179
+msgid "Anonymous user"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Activity/Settings/NewShare.php:43
+msgid "A form has been <strong>shared</strong> with you"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Activity/Settings/NewSubmission.php:43
+msgid "Someone <strong>answered</strong> a form"
+msgstr ""
+
+#. TRANSLATORS Appendix to the form Title of a duplicated/copied form.
+#: /var/tmp/translationtest/forms/lib/Controller/ApiController.php:295
+msgid "Copy"
+msgstr ""
+
+#. TRANSLATORS On Results when listing the single Responses to the form, this text is shown as heading of the Response.
+#: /var/tmp/translationtest/forms/lib/Controller/ApiController.php:887
+msgid "Anonymous response"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Controller/PageController.php:228
+#, php-format
+msgid "Shared by %s"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Service/SubmissionService.php:162
+msgid "User display name"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/lib/Service/SubmissionService.php:163
+msgid "Timestamp"
+msgstr ""
+
+#. TRANSLATORS Appendix for CSV-Export: 'Form Title (responses).csv'
+#: /var/tmp/translationtest/forms/lib/Service/SubmissionService.php:210
+msgid "responses"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "📝 Simple surveys and questionnaires, self-hosted"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"**Simple surveys and questionnaires, self-hosted!**\n"
+"\n"
+"- **📝 Simple design:** No mass of options, only the essentials. Works well "
+"on mobile of course.\n"
+"- **📊 View & export results:** Results are visualized and can also be "
+"exported as CSV in the same format used by Google Forms.\n"
+"- **🔒 Data under your control!** Unlike in Google Forms, Typeform, Doodle "
+"and others, the survey info and responses are kept private on your "
+"instance.\n"
+"- **🙋 Get involved!** We have lots of stuff planned like more question "
+"types, collaboration on forms, [and much more](https://github.com/nextcloud/"
+"forms/milestones)!"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:1
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:16
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:58
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:80
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:105
+msgid "New form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:2
+msgid "Your Forms"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:3
+msgid "Shared with you"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:4
+msgid "Loading forms …"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:5
+msgid "No forms created yet"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:6
+msgid "Create a form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:7
+msgid "Select a form or create a new one"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:8
+msgid "Create new form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:9
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:10
+msgid "An error occurred while loading the forms list"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:11
+msgid "Unable to create a new form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:12
+msgid "Unable to copy form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:13
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:50
+msgid "Results"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:14
+msgid "Copy form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:15
+msgid "Delete form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:17
+#: /var/tmp/translationtest/forms/src/mixins/ViewsMixin.js:126
+msgid "Form link copied"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:18
+#: /var/tmp/translationtest/forms/src/mixins/ViewsMixin.js:128
+msgid "Cannot copy, please copy the link manually"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:19
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:51
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:68
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:78
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:88
+msgid "Share link"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:20
+msgid "Are you sure you want to delete {title}?"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:21
+msgid "Error while deleting {title}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:22
+msgid "An answer for the {index} option"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:23
+msgid "Answer number {index}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:24
+msgid "Delete answer"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:25
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:26
+msgid "Error while saving the answer"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:27
+msgid "Question number {index}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:28
+msgid "Drag to reorder the questions"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:29
+msgid "Title of question number {index}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:30
+msgid "Required"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:31
+msgid "Delete question"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:32
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:104
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:116
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:128
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:140
+msgid "This question needs a title!"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:33
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:34
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:37
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:38
+msgid "Add a new answer"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:35
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:39
+msgid "There was an issue deleting this option"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:36
+msgid "A long answer for the question “{text}”"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:40
+msgid "A short answer for the question “{text}”"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:41
+msgid "Delete this response"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:42
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:43
+msgid "No response"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:44
+msgid "User or group name …"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:45
+msgid "No recommendations. Start typing."
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:46
+msgid "Searching …"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:47
+msgid "No elements found."
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:48
+msgid "Group"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:49
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:100
+msgid "Loading {title} …"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:52
+msgid "Toggle settings"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:53
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:54
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:65
+msgid "Form title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:55
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:56
+msgid "Description"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:57
+msgid "Add a question"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:59
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:106
+msgid "Responses are anonymous."
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:60
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:107
+msgid "Responses are connected to your Nextcloud account."
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:61
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:108
+msgid "An asterisk (*) indicates mandatory questions."
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:62
+msgid "There was an error while adding the new question"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:63
+msgid "There was an error while removing the question"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/forms/src/mixins/ViewsMixin.js:118
+msgid "Error while saving form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:66
+msgid "Loading responses …"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:67
+msgid "Back to questions"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:69
+msgid "{amount} responses"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:70
+msgid "Summary"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:71
+msgid "Responses"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:72
+msgid "Options"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:73
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:79
+msgid "Save CSV to Files"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:74
+msgid "Download CSV"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:75
+msgid "Delete all responses"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:76
+msgid "No responses yet"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:77
+msgid "Results of submitted forms will show up here"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:81
+msgid "There was an error while loading the results"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:82
+msgid "Export successful to {file}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:83
+msgid "There was an error, while exporting to Files"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:84
+msgid "There was an error while removing this response"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:85
+msgid "Are you sure you want to delete all responses of {title}?"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:86
+msgid "There was an error while removing responses"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:87
+msgid "Share form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:89
+msgid "Share via link"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:90
+msgid "Show to all users of this instance"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:91
+msgid "Choose users to share with"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:92
+msgid "Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:93
+msgid "Anonymous responses"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:94
+msgid "Allow multiple responses per person"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:95
+msgid "Set expiration date"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:96
+msgid "Expiration date"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:97
+msgid "Select expiration date"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:98
+msgid "Expired on {date}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:99
+msgid "Expires on {date}"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:101
+msgid "Submitting form …"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:102
+#: /var/tmp/translationtest/forms/templates/nosubmit.php:28
+msgid "Thank you for completing the form!"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:103
+msgid "Submit"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:104
+msgid "Submit form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:109
+msgid "There was an error submitting the form"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/mixins/QuestionMixin.js:180
+msgid "Error while saving question"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:59
+msgid "Checkboxes"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:63
+msgid "Checkbox question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:64
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:76
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:92
+msgid "This question needs a title and at least one answer!"
+msgstr ""
+
+#. TRANSLATORS Take care, a translation by word might not match! The english called 'Multiple-Choice' only allows to select a single-option (basically single-choice)!
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:71
+msgid "Multiple choice"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:75
+msgid "Multiple choice question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:85
+msgid "Dropdown"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:89
+msgid "Dropdown question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:90
+msgid "People can pick one option"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:91
+msgid "Pick an option"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:98
+msgid "Short answer"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:101
+msgid "Short answer question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:102
+msgid "People can enter a short answer"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:103
+msgid "Enter a short answer"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:110
+msgid "Long text"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:113
+msgid "Long text question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:114
+msgid "People can enter a long text"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:115
+msgid "Enter a long text"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:122
+msgid "Date"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:125
+msgid "Date question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:126
+msgid "People can pick a date"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:127
+msgid "Pick a date"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:134
+msgid "Datetime"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:137
+msgid "Datetime question title"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:138
+msgid "People can pick a date and time"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:139
+msgid "Pick a date and time"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/templates/expired.php:29
+msgid "Form expired"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/templates/expired.php:30
+msgid "This form has expired and is no longer taking answers"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/templates/notfound.php:29
+msgid "Form not found"
+msgstr ""
+
+#: /var/tmp/translationtest/forms/templates/notfound.php:30
+msgid "This form does not exist"
+msgstr ""

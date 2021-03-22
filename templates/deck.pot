@@ -1,0 +1,1214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:141
+msgid "You have created a new board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:141
+msgid "{user} has created a new board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:144
+msgid "You have deleted the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:144
+msgid "{user} has deleted the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:147
+msgid "You have restored the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:147
+msgid "{user} has restored the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:150
+msgid "You have shared the board {board} with {acl}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:150
+msgid "{user} has shared the board {board} with {acl}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:153
+msgid "You have removed {acl} from the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:153
+msgid "{user} has removed {acl} from the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:156
+msgid "You have renamed the board {before} to {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:156
+msgid "{user} has renamed the board {before} to {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:160
+msgid "You have archived the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:160
+msgid "{user} has archived the board {before}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:162
+msgid "You have unarchived the board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:162
+msgid "{user} has unarchived the board {before}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:166
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:169
+msgid "You have created a new list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:166
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:169
+msgid "{user} has created a new list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:172
+msgid "You have renamed list {before} to {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:172
+msgid "{user} has renamed list {before} to {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:175
+msgid "You have deleted list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:175
+msgid "{user} has deleted list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:178
+msgid "You have created card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:178
+msgid "{user} has created card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:181
+msgid "You have deleted card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:181
+msgid "{user} has deleted card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:184
+msgid "You have renamed the card {before} to {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:184
+msgid "{user} has renamed the card {before} to {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:188
+msgid ""
+"You have added a description to card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:188
+msgid ""
+"{user} has added a description to card {card} in list {stack} on board "
+"{board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:190
+msgid ""
+"You have updated the description of card {card} in list {stack} on board "
+"{board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:190
+msgid ""
+"{user} has updated the description of the card {card} in list {stack} on "
+"board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:194
+msgid "You have archived card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:194
+msgid "{user} has archived card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:197
+msgid "You have unarchived card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:197
+msgid "{user} has unarchived card {card} in list {stack} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:201
+msgid "You have removed the due date of card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:201
+msgid "{user} has removed the due date of card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:203
+msgid "You have set the due date of card {card} to {after}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:203
+msgid "{user} has set the due date of card {card} to {after}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:205
+msgid "You have updated the due date of card {card} to {after}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:205
+msgid "{user} has updated the due date of card {card} to {after}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:210
+msgid ""
+"You have added the tag {label} to card {card} in list {stack} on board "
+"{board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:210
+msgid ""
+"{user} has added the tag {label} to card {card} in list {stack} on board "
+"{board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:213
+msgid ""
+"You have removed the tag {label} from card {card} in list {stack} on board "
+"{board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:213
+msgid ""
+"{user} has removed the tag {label} from card {card} in list {stack} on board "
+"{board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:216
+msgid "You have assigned {assigneduser} to card {card} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:216
+msgid "{user} has assigned {assigneduser} to card {card} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:219
+msgid "You have unassigned {assigneduser} from card {card} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:219
+msgid "{user} has unassigned {assigneduser} from card {card} on board {board}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:222
+msgid "You have moved the card {card} from list {stackBefore} to {stack}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:222
+msgid "{user} has moved the card {card} from list {stackBefore} to {stack}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:225
+msgid "You have added the attachment {attachment} to card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:225
+msgid "{user} has added the attachment {attachment} to card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:228
+msgid "You have updated the attachment {attachment} on card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:228
+msgid "{user} has updated the attachment {attachment} on card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:231
+msgid "You have deleted the attachment {attachment} from card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:231
+msgid "{user} has deleted the attachment {attachment} from card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:234
+msgid "You have restored the attachment {attachment} to card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:234
+msgid "{user} has restored the attachment {attachment} to card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:237
+msgid "You have commented on card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/ActivityManager.php:237
+msgid "{user} has commented on card {card}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/DescriptionSetting.php:41
+msgid ""
+"A <strong>card description</strong> inside the Deck app has been changed"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/Filter.php:54
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:78
+#: /var/tmp/translationtest/deck/specialAppInfoFakeDummyForL10nScript.php:2
+msgid "Deck"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/Setting.php:53
+msgid "Changes in the <strong>Deck app</strong>"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Activity/SettingComment.php:41
+msgid "A <strong>comment</strong> was created on a card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Dashboard/DeckWidget.php:54
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:159
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:197
+msgid "Upcoming cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Middleware/DefaultBoardMiddleware.php:56
+msgid "Personal"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:110
+#, php-format
+msgid "The card \"%s\" on \"%s\" has been assigned to you by %s."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:113
+#, php-format
+msgid "{user} has assigned the card \"%s\" on \"%s\" to you."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:131
+#, php-format
+msgid "The card \"%s\" on \"%s\" has reached its due date."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:148
+#, php-format
+msgid "%s has mentioned you in a comment on \"%s\"."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:151
+#, php-format
+msgid "{user} has mentioned you in a comment on \"%s\"."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:177
+#, php-format
+msgid "The board \"%s\" has been shared with you by %s."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Notification/Notifier.php:180
+#, php-format
+msgid "{user} has shared the board %s with you."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/AttachmentService.php:203
+msgid "No data was provided to create an attachment."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/BoardService.php:305
+msgid "Finished"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/BoardService.php:306
+msgid "To review"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/BoardService.php:307
+msgid "Action needed"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/BoardService.php:308
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:195
+msgid "Later"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/BoardService.php:668
+msgid "copy"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/DefaultBoardService.php:109
+#: /var/tmp/translationtest/deck/tests/unit/Service/DefaultBoardServiceTest.php:149
+msgid "To do"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/DefaultBoardService.php:110
+#: /var/tmp/translationtest/deck/tests/unit/Service/DefaultBoardServiceTest.php:150
+msgid "Doing"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/DefaultBoardService.php:111
+#: /var/tmp/translationtest/deck/tests/unit/Service/DefaultBoardServiceTest.php:151
+msgid "Done"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/DefaultBoardService.php:113
+msgid "Example Task 3"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/DefaultBoardService.php:114
+msgid "Example Task 2"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/DefaultBoardService.php:115
+msgid "Example Task 1"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:125
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:198
+msgid "The file was uploaded"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:126
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:199
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:127
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:200
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:128
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:201
+msgid "The file was only partially uploaded"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:129
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:202
+msgid "No file was uploaded"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:130
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:203
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:131
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:204
+msgid "Could not write file to disk"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:132
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:205
+msgid "A PHP extension stopped the file upload"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Service/FileService.php:136
+#: /var/tmp/translationtest/deck/lib/Service/FilesAppService.php:209
+#, php-format
+msgid "No file uploaded or file size exceeds maximum of %s"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Sharing/DeckShareProvider.php:124
+msgid "Card not found"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Sharing/DeckShareProvider.php:130
+msgid "Path is already shared with this card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/lib/Sharing/ShareAPIHelper.php:73
+msgid "Invalid date, date format must be YYYY-MM-DD"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "Personal planning and team project organization"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"Deck is a kanban style organization tool aimed at personal planning and "
+"project organization for teams integrated with Nextcloud.\n"
+"\n"
+"\n"
+"- 📥 Add your tasks to cards and put them in order\n"
+"- 📄 Write down additional notes in markdown\n"
+"- 🔖 Assign labels for even better organization\n"
+"- 👥 Share with your team, friends or family\n"
+"- 📎 Attach files and embed them in your markdown description\n"
+"- 💬 Discuss with your team using comments\n"
+"- ⚡ Keep track of changes in the activity stream\n"
+"- 🚀 Get your project organized"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:1
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:148
+msgid "Card details"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:2
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:3
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:167
+msgid "Add board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:4
+msgid "Select the board to link to a project"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:5
+msgid "Search by board title"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:6
+msgid "Select board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:7
+msgid "Create a new card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:8
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:17
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:153
+msgid "Select a board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:9
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:154
+msgid "Select a list"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:10
+msgid "Card title"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:11
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:19
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:81
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:85
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:88
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:156
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:189
+msgid "Cancel"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:12
+msgid "Creating the new card…"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:13
+msgid "\"{card}\" was added to \"{board}\""
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:14
+msgid "Open card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:15
+msgid "Close"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:16
+msgid "Create card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:18
+msgid "Select a card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:20
+msgid "Select the card to link to a project"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:21
+msgid "Link to card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:22
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:23
+msgid "File already exists"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:24
+msgid "A file with the name {filename} already exists."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:25
+msgid "Do you want to overwrite it?"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:26
+msgid "Overwrite file"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:27
+msgid "Keep existing file"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:28
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:101
+msgid "This board is read only"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:29
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:102
+msgid "Drop your files to upload"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:30
+msgid "Archived cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:31
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:32
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:34
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:54
+msgid "Add list"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:33
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:53
+msgid "List name"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:35
+msgid "Apply filter"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:36
+msgid "Filter by tag"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:37
+msgid "Filter by assigned user"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:38
+msgid "Unassigned"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:39
+msgid "Filter by due date"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:40
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:191
+msgid "Overdue"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:41
+msgid "Next 24 hours"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:42
+msgid "Next 7 days"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:43
+msgid "Next 30 days"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:44
+msgid "No due date"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:45
+msgid "Clear filter"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:46
+msgid "Hide archived cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:46
+msgid "Show archived cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:47
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:48
+msgid "Toggle compact mode"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:49
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:106
+msgid "Details"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:50
+msgid "Loading board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:51
+msgid "No lists available"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:52
+msgid "Create a new list to add cards to this board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:55
+msgid "Board not found"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:56
+msgid "Sharing"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:57
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:113
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:114
+msgid "Tags"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:58
+msgid "Deleted items"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:59
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:109
+msgid "Timeline"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:60
+msgid "Deleted lists"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:61
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:63
+msgid "Undo"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:62
+msgid "Deleted cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:64
+msgid "Share board with a user, group or circle …"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:66
+msgid "Searching for users, groups and circles …"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:66
+msgid "No participants found"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:67
+msgid "Board owner"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:68
+msgid "(Group)"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:69
+msgid "(Circle)"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:70
+msgid "Can edit"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:71
+msgid "Can share"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:72
+msgid "Can manage"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:73
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:87
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:130
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:188
+msgid "Delete"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:74
+msgid "Failed to create share with {displayName}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:75
+msgid "Add a new list"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:76
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:80
+msgid "Archive all cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:77
+msgid "Delete list"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:78
+msgid "Add card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:79
+msgid "Archive all cards in this list"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:82
+msgid "Add a new card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:83
+msgid "Card name"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:84
+msgid "List deleted"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:86
+msgid "Edit"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:89
+msgid "Add a new tag"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:90
+msgid "title and color value must be provided"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:91
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:168
+msgid "Board name"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:92
+msgid "Members"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:93
+msgid "Upload new files"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:94
+msgid "Share from Files"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:95
+msgid "Add this attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:96
+msgid "Show in Files"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:97
+msgid "Unshare file"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:98
+msgid "Delete Attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:99
+msgid "Restore Attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:100
+msgid "File to share"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:103
+msgid "Invalid path selected"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:104
+msgid "Open in sidebar view"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:105
+msgid "Open in bigger view"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:107
+msgid "Attachments"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:108
+msgid "Comments"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:110
+msgid "Modified"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:110
+msgid "Created"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:111
+msgid "The title cannot be empty."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:112
+msgid "No comments yet. Begin the discussion!"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:115
+msgid "Assign a tag to this card…"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:116
+msgid "Assign to users"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:117
+msgid "Assign to users/groups/circles"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:118
+msgid "Assign a user to this card…"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:119
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:120
+msgid "Due date"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:121
+msgid "Set a due date"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:122
+msgid "Remove due date"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:123
+msgid "Select Date"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:124
+msgid "Save"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:125
+msgid "The comment cannot be empty."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:126
+msgid "The comment cannot be longer than 1000 characters."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:127
+msgid "In reply to"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:128
+msgid "Reply"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:129
+msgid "Update"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:131
+msgid "Description"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:132
+msgid "(Unsaved)"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:133
+msgid "(Saving…)"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:134
+msgid "Formatting help"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:135
+msgid "Edit description"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:136
+msgid "View description"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:137
+msgid "Add Attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:138
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:141
+msgid "Write a description …"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:139
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:140
+msgid "Choose attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:142
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:144
+msgid "(group)"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:143
+msgid "(circle)"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:145
+msgid "Assign to me"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:146
+msgid "Unassign myself"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:147
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:155
+msgid "Move card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:149
+msgid "Unarchive card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:149
+msgid "Archive card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:150
+msgid "Delete card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:151
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:152
+msgid "Move card to another board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:157
+msgid "Card deleted"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:158
+#: /var/tmp/translationtest/deck/src/mixins/relativeDate.js:31
+msgid "seconds ago"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:160
+msgid "All boards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:161
+msgid "Archived boards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:162
+msgid "Shared with you"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:163
+msgid "Use bigger card view"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:164
+msgid "Show boards in calendar/tasks"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:165
+msgid "Limit deck usage of groups"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:166
+msgid ""
+"Limiting Deck will block users not part of those groups from creating their "
+"own boards. Users will still be able to work on boards that have been shared "
+"with them."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:169
+msgid "Board details"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:170
+msgid "Edit board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:171
+msgid "Clone board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:172
+msgid "Unarchive board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:173
+msgid "Archive board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:174
+msgid "Turn on due date reminders"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:174
+msgid "Turn off due date reminders"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:175
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:179
+msgid "Due date reminders"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:176
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:182
+msgid "All cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:177
+msgid "Assigned cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:178
+msgid "No notifications"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:180
+msgid "Delete board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:181
+msgid "Board {0} deleted"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:183
+msgid "Only assigned cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:184
+msgid "No reminder"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:185
+msgid "An error occurred"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:186
+msgid ""
+"Are you sure you want to delete the board {title}? This will delete all the "
+"data of this board."
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:187
+msgid "Delete the board?"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:190
+msgid "Loading filtered view"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:192
+msgid "Today"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:193
+msgid "Tomorrow"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:194
+msgid "This week"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:196
+msgid "No due"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:198
+msgid "No upcoming cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:199
+msgid "upcoming cards"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/init-collections.js:49
+msgid "Link to a board"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/init-collections.js:55
+msgid "Link to a card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/init-talk.js:45
+msgid "Create a card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/init-talk.js:54
+msgid "Message from {author} in {conversationName}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/main.js:60
+msgid "Something went wrong"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/mixins/attachmentUpload.js:38
+msgid "Failed to upload {name}"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/mixins/attachmentUpload.js:39
+msgid "Maximum file size of {size} exceeded"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/services/SharingApi.js:36
+msgid "Error creating the share"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/views/FileSharingPicker.js:29
+msgid "Share with a Deck card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/views/FileSharingPicker.js:40
+msgid "Share {file} with a Deck card"
+msgstr ""
+
+#: /var/tmp/translationtest/deck/src/views/FileSharingPicker.js:41
+msgid "Share"
+msgstr ""

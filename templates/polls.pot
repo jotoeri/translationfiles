@@ -1,0 +1,1254 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/tmp/translationtest/polls/lib/Model/Contact.php:103
+msgid "Contact"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Model/ContactGroup.php:41
+msgid "Contact group"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Model/Email.php:36
+msgid "External Email"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Model/GenericUser.php:44
+msgid "Public link"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Model/GenericUser.php:47
+msgid "External user"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Model/Group.php:43
+msgid "Group"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Model/User.php:43
+msgid "User"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:79
+#: /var/tmp/translationtest/polls/specialAppInfoFakeDummyForL10nScript.php:2
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:268
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:272
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:282
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:284
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:296
+msgid "Polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:104
+#, php-format
+msgid "%s invited you to a poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:108
+#, php-format
+msgid "{user} has invited you to the poll \"%s\"."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:127
+#, php-format
+msgid "%s took over your poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:131
+#, php-format
+msgid "{user} took over your poll \"%s\" and is the new owner."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:150
+#, php-format
+msgid "%s permanently deleted your poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:154
+#, php-format
+msgid "{user} permanently deleted your poll \"%s\"."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:173
+#, php-format
+msgid "%s changed the deleted status of your poll."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Notification/Notifier.php:176
+#, php-format
+msgid "{user} changed the deleted status of your poll \"%s\"."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:242
+#, php-format
+msgid "- %s voted."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:244
+msgid "- Updated poll configuration. Please check your votes."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:246
+msgid "- The poll got deleted."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:248
+msgid "- The poll got restored."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:250
+msgid "- The poll was closed."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:252
+msgid "- A vote option was added."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:254
+msgid "- A vote option was removed."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:256
+msgid "- The poll owner changed."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:258
+#, php-format
+msgid "- %s created the poll."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:272
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:274
+msgid "Polls App - New Activity"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:278
+msgid "\"{title}\" had recent activity: "
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:283
+msgid "A user"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:304
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:333
+msgid "Go to poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:308
+msgid ""
+"This email is sent to you, because you subscribed to notifications of this "
+"poll. To opt out, visit the poll and remove your subscription."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:323
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:325
+#, php-format
+msgid "Poll invitation \"%s\""
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:329
+msgid "{owner} invited you to take part in the poll \"{title}\""
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:336
+msgid ""
+"This link gives you personal access to the poll named above. Press the "
+"button above or copy the following link and add it in your browser's "
+"location bar:"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:338
+msgid ""
+"Do not share this link with other people, because it is connected to your "
+"votes."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/lib/Service/MailService.php:339
+msgid ""
+"This email is sent to you, because you are invited to vote in this poll by "
+"the poll owner. At least your name or your email address is recorded in this "
+"poll. If you want to get removed from this poll, contact the site "
+"administrator or the initiator of this poll, where the mail is sent from."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialAppInfoFakeDummyForL10nScript.php:3
+msgid ""
+"A polls app, similar to doodle/dudle with the possibility to restrict access."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"A polls app, similar to doodle/dudle with the possibility to restrict access "
+"(members, certain groups/users, hidden and public)."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:1
+msgid "Error loading poll list"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:2
+msgid "Switch to list view"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:3
+msgid "Switch to table view"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:4
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:90
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:177
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:183
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:239
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:241
+msgid "Link copied to clipboard"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:5
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:91
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:178
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:184
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:240
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:242
+msgid "Error while copying link to clipboard"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:6
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:92
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:100
+msgid "%n Participant"
+msgid_plural "%n Participants"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:7
+msgid "Date order"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:8
+msgid "Original order"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:9
+msgid "Ranked order"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:10
+msgid "Unsubscribe"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:11
+msgid "Subscribe"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:12
+msgid "Toggle Sidebar"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:13
+msgid "Conflict"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:14
+msgid "Got a network error while checking calendar events."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:15
+msgid "New comment …"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:16
+msgid "Error while saving comment"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:17
+msgid "Delete comment"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:18
+msgid "Error while deleting the comment"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:19
+msgid "Deleting in {countdown} second"
+msgid_plural "Deleting in {countdown} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:20
+msgid "Relevant for all users"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:21
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:136
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:147
+msgid "Only invited users"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:22
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:135
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:146
+msgid "All users"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:23
+msgid "Allow admins to edit this poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:24
+msgid "Allow Comments"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:25
+msgid "Allow \"maybe\" vote"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:26
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:97
+msgid "Anonymous poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:27
+msgid "Reopen poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:27
+msgid "Close poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:28
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:29
+msgid "Closing date"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:30
+msgid "Limit yes votes per option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:31
+msgid "Hide not available Options"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:32
+msgid "Always show results"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:33
+msgid "Hide results until poll is closed"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:34
+msgid "Never show results"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:35
+msgid "Limit yes votes per user"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:36
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:128
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:140
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:205
+msgid "Title"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:37
+msgid "Enter Title"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:38
+msgid "Poll type"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:39
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:61
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:112
+msgid "Cancel"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:40
+msgid "Apply"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:41
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:138
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:149
+msgid "Date poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:42
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:137
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:148
+msgid "Text poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:43
+msgid "Poll \"{pollTitle}\" added"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:44
+msgid "Error while creating Poll \"{pollTitle}\""
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:45
+msgid "Add new Poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:46
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:267
+msgid "Administration"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:47
+msgid "Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:48
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:287
+msgid "Error cloning poll."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:49
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:50
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:214
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:270
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:285
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:286
+msgid "Error deleting poll."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:51
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:278
+msgid "Clone poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:52
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:211
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:279
+msgid "Delete poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:53
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:211
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:256
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:280
+msgid "Restore poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:54
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:212
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:257
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:281
+msgid "Delete poll permanently"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:55
+msgid "Confirmed"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:56
+msgid "Clone to option sequence"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:57
+msgid "Create a sequence of date options starting with {dateOption}."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:58
+msgid "Step unit:"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:59
+msgid "Step width:"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:60
+msgid "Number of items to create:"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:62
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:75
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:113
+msgid "OK"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:63
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:70
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:78
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:79
+#: /var/tmp/translationtest/polls/src/js/mixins/dateMixins.js:8
+msgid "Week"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:80
+msgid "Available Options"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:81
+msgid "Delete option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:66
+msgid "Clone option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:67
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:82
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:246
+msgid "Unconfirm option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:67
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:82
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:246
+msgid "Confirm option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:68
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:83
+msgid "No vote options"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:69
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:84
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:292
+msgid "Add some!"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:71
+msgid "Add a date option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:72
+msgid "Select range"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:73
+msgid "Add time"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:74
+msgid "Remove time"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:76
+msgid "Click to add an option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:77
+msgid "Shift all date options"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:85
+msgid "Add a new text option"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:86
+msgid "Enter option text"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:87
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:133
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:145
+msgid "No description provided"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:88
+msgid "No Participants until now"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:89
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:229
+msgid "Copy list of email addresses to clipboard"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:93
+msgid "Poll informations"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:94
+msgid "Poll owner:"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:95
+msgid "Created {dateRelative}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:96
+msgid "Closing: {dateRelative}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:98
+msgid "Time zone: {timezoneString}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:99
+msgid "You subscribed to this poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:102
+msgid "Only %n vote per option."
+msgid_plural "Only %n votes per option."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:103
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:111
+msgid "Optional email address"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:104
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:123
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:230
+msgid "Checking email address …"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:105
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:125
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:233
+msgid "valid email address."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:106
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:124
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:234
+msgid "Invalid email address."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:107
+msgid "Public poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:108
+msgid "Public participation"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:109
+msgid "To participate, tell us how we can call you!"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:110
+msgid "Enter your name"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:114
+msgid "You are a registered user of this site?"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:115
+msgid "Login"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:116
+msgid ""
+"As a regular user of this site, you can participate with your internal "
+"identity after logging in."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:117
+msgid "Otherwise participate publicly."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:118
+msgid "Checking username …"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:119
+msgid "Enter a username to participate."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:120
+msgid "Please use at least 3 characters."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:121
+msgid "Invalid name"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:122
+msgid "{username} is valid."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:126
+msgid "Error saving username"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:127
+msgid ""
+"With your email address you can subscribe to notifications and you will "
+"receive your personal link to this poll."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:129
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:141
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:209
+msgid "Access"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:130
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:142
+msgid "Owner"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:131
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:143
+msgid "Created"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:132
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:144
+msgid "Closing Date"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:134
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:290
+msgid "Deleted"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:139
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:150
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:297
+msgid "never"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:151
+msgid "Try experimental styles"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:152
+msgid ""
+"Some experimental UI variants. Changes the background color of the main area."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:153
+msgid "Use background image"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:154
+msgid "Add a background image to the main area."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:155
+msgid "Enter the URL of your favorite background image."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:156
+msgid "Glassy navigation"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:157
+msgid ""
+"Blurs the background of the navigation (Does not work with all browsers)."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:158
+msgid "Glassy sidebar"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:159
+msgid "Blurs the background of the sidebar (Does not work with all browsers)."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:160
+msgid "Use calendar lookup"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:161
+msgid ""
+"Check, if an option in a date poll is conflicting with or near an entry in "
+"your calendar."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:162
+msgid "Opt in to the calendars, which should be checked."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:163
+msgid "Text polls default to list view"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:164
+msgid ""
+"Check this, if you prefer to display text poll in a vertical aligned list "
+"rather than in the grid view. The initial default is list view."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:165
+msgid "Date polls default to list view"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:166
+msgid ""
+"Check this, if you prefer to display date poll in a vertical view rather "
+"than in the grid view. The initial default is grid view."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:167
+msgid "User Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:168
+msgid "Experimental Styles"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:169
+msgid "Public link ({token})"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:170
+msgid "Effective shares"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:171
+msgid "Resend invitation mail"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:171
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:187
+msgid "Send invitation mail"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:172
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:180
+msgid "Copy link to clipboard"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:173
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:181
+msgid "Remove share"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:174
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:243
+msgid "Enter a name to start the search"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:175
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:193
+msgid "Invitation sent to {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:176
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:194
+msgid "Error sending invitation to {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:179
+msgid "Public shares"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:182
+msgid "Add a public link"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:185
+msgid "Error adding share"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:186
+msgid "Unsent invitations"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:188
+msgid "Resolve into individual invitations"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:189
+msgid "Remove invitation"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:190
+msgid "Resolving of {name} is not possible. The circles app is not enabled."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:191
+msgid "Resolving of {name} is not possible. The contacts app is not enabled."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:192
+msgid "Error resolving {name}."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:195
+msgid "Details"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:196
+msgid "Configuration"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:197
+msgid "Options"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:198
+msgid "Shares"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:199
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:200
+msgid "Comments"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:201
+msgid "No comments"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:202
+msgid "Be the first."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:203
+msgid ""
+"Please be careful when changing options, because it can affect existing "
+"votes in an unwanted manner."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:204
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:217
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:218
+msgid "As an admin you may edit this poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:206
+msgid "Description"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:207
+msgid "Poll configurations"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:208
+msgid "Poll closing status"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:101
+msgid "%n of {maximalVotes} vote left."
+msgid_plural "%n of {maximalVotes} votes left."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:210
+msgid "Result display"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:213
+msgid "\"{pollTitle}\" successfully saved"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:215
+msgid "Title must not be empty!"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:216
+msgid "Error writing poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:219
+msgid "Add Shares"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:220
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:222
+msgid "Receive notification email on activity to {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:221
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:223
+msgid "Receive notification email on activity"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:224
+msgid "Copy your personal link to clipboard"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:225
+msgid "edit Email Address"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:226
+msgid "Get your personal link per mail"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:227
+msgid "Subscribe to notifications"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:228
+msgid "remove Email Address"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:231
+msgid "Email address deleted."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:232
+msgid "Error deleting email address {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:235
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:298
+msgid "Email address {emailAddress} saved."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:236
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:299
+msgid "Error saving email address {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:237
+msgid "Invitation resent to {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:238
+msgid "Mail could not be resent to {emailAddress}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:244
+msgid "Error while adding share"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:245
+msgid "Delete votes"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:247
+msgid "Do you want to remove {username} from poll?"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:248
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:260
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:265
+msgid "No"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:249
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:261
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:266
+msgid "Yes"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:250
+msgid "User {userId} removed"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:251
+msgid "Manage polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:252
+msgid ""
+"Manage polls of other users. You can take over the ownership or delete polls."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:253
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:276
+msgid "No polls found for this category"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:254
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:277
+msgid "Add one or change category!"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:255
+msgid "Take over"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:256
+msgid "Set \"deleted\" status"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:258
+msgid ""
+"Do you want to take over this poll from {username} and change the ownership?"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:259
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:264
+msgid "The original owner will be notified."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:262
+msgid "Do you want to delete this poll?"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:263
+msgid "This action cannot be reverted."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:269
+msgid "Error switching deleted status."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:271
+msgid "Error overtaking poll."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:273
+msgid "404 - poll not found"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:274
+msgid "Enter a poll or start a new one."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:275
+msgid "Goto Nextcloud"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:283
+msgid "Error loading poll"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:288
+msgid "Closed {relativeTimeAgo}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:289
+msgid "Closing {relativeExpirationTime}"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:291
+msgid "No vote options available"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:293
+msgid "Maybe the owner did not provide some until now."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:294
+msgid ""
+"Although participant's names are hidden, this is not a real anonymous poll "
+"because they are not hidden from the owner."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:295
+msgid ""
+"Additionally the owner can remove the anonymous flag at any time, which will "
+"reveal the participant's names."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/mixins/dateMixins.js:5
+msgid "Minute"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/mixins/dateMixins.js:6
+msgid "Hour"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/mixins/dateMixins.js:7
+msgid "Day"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/mixins/dateMixins.js:9
+msgid "Month"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/mixins/dateMixins.js:10
+msgid "Year"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:34
+msgid "Relevant"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:35
+msgid "Relevant polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:36
+msgid ""
+"All polls which are relevant or important to you, because you are a "
+"participant or the owner or you are invited to. Without closed polls."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:42
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:43
+msgid "My polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:44
+msgid "Your polls (where you are the owner)."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:50
+msgid "Hidden"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:51
+msgid "Hidden polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:52
+msgid "All hidden polls, to which you have access."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:58
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:59
+msgid "Participated by me"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:60
+msgid "All polls, where you placed a vote."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:66
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:67
+msgid "Public polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:68
+msgid ""
+"A complete list with all public polls on this site, regardless who is the "
+"owner."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:74
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:75
+msgid "All polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:76
+msgid "All polls, where you have access to."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:82
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:83
+msgid "Closed polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:84
+msgid "All closed polls, where voting is disabled."
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:90
+msgid "Deleted polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:91
+msgid "My deleted polls"
+msgstr ""
+
+#: /var/tmp/translationtest/polls/src/js/store/modules/polls.js:92
+msgid "The trash bin."
+msgstr ""

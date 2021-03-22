@@ -1,0 +1,381 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/tmp/translationtest/notes/lib/AppInfo/DashboardWidget.php:37
+#: /var/tmp/translationtest/notes/lib/AppInfo/SearchProvider.php:43
+#: /var/tmp/translationtest/notes/specialAppInfoFakeDummyForL10nScript.php:2
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:46
+msgid "Notes"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/lib/Controller/NotesController.php:93
+msgid "Reading notes from filesystem has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/lib/Service/Note.php:113
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:2
+msgid "Error"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/lib/Service/NoteUtil.php:107
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:1
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:15
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:47
+msgid "New note"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "Distraction-free notes and writing"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"The Notes app is a distraction free notes taking app for [Nextcloud](https://"
+"www.nextcloud.com/). It provides categories for better organization and "
+"supports formatting using [Markdown](https://en.wikipedia.org/wiki/Markdown) "
+"syntax. Notes are saved as files in your Nextcloud, so you can view and edit "
+"them with every Nextcloud client. Furthermore, a separate [REST API](https://"
+"github.com/nextcloud/notes/blob/master/docs/api/README.md) allows for an "
+"easy integration into third-party apps (currently, there are notes apps for "
+"[Android](https://github.com/stefan-niedermann/nextcloud-notes), [iOS]"
+"(https://github.com/owncloud/notes-iOS-App) and the [console](https://git."
+"danielmoch.com/nncli/about) which allow convenient access to your Nextcloud "
+"notes). Further features include marking notes as favorites."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:3
+msgid "Please see Nextcloud server log for details."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:4
+msgid "Deleted {title}"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:5
+msgid "Undo Delete"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:6
+msgid "Note recovered"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:7
+msgid "There are unsaved notes. Leaving the page will discard all changes!"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:8
+msgid "Deleted {number} note"
+msgid_plural "Deleted {number} notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:9
+msgid "Recovered {number} note"
+msgid_plural "Recovered {number} notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:10
+msgid "Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:11
+msgid "Folder to store your notes"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:12
+msgid "path to notes"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:13
+msgid "File extension for new notes"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:14
+msgid "No notes yet"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:16
+msgid "All notes"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:17
+msgid "Categories"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:18
+msgid "Loading …"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:19
+msgid "Today"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:20
+msgid "Yesterday"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:21
+msgid "This week"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:22
+msgid "Last week"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:23
+msgid "This month"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:24
+msgid "Last month"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:25
+msgid "Rename"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:26
+msgid "Note's title"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:27
+msgid "Delete note"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:28
+msgid "Remove from favorites"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:28
+msgid "Add to favorites"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:29
+msgid "Error during preparing note for deletion."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:30
+msgid "Empty note"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:30
+msgid "Write …"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:31
+msgid "Details"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:32
+msgid "CTRL + /"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:33
+msgid "Edit"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:33
+msgid "Preview"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:34
+msgid "Exit full screen"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:34
+msgid "Full screen"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:35
+msgid "Save failed. Click to retry."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:36
+msgid "Set category"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:37
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:43
+msgid "Category"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:38
+#: /var/tmp/translationtest/notes/src/NotesService.js:312
+msgid "Uncategorized"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:39
+msgid "Click here to save manually"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:40
+msgid "Saving failed!"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:41
+msgid "Last modified: {date}"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:42
+msgid "Note has unsaved changes"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:43
+msgid "Subcategory"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:44
+msgid "%n word"
+msgid_plural "%n words"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:45
+msgid "%n character"
+msgid_plural "%n characters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:48
+msgid "Write down your thoughts without any distractions."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:49
+msgid "Use Markdown markups to style your text."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:50
+msgid "Organize your notes in categories."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:51
+msgid ""
+"Install the app for your mobile phone in order to access your notes from "
+"everywhere."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:52
+msgid "Android app"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:53
+msgid "iOS app"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:47
+msgid "Start writing a note by clicking on “{newnote}” in the app navigation."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:43
+msgid ""
+"You can create subcategories by using “/” as delimiter between parent "
+"category and subcategory, e.g. “{parent}/{sub}”."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:17
+msgid "Note not found."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:20
+msgid "Note is locked."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:23
+msgid "Insufficient storage."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:29
+msgid "See JavaScript console and server log for details."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:43
+msgid "Updating settings has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:56
+msgid "Fetching notes for dashboard has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:80
+msgid "Error from Nextcloud server: {msg}"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:93
+msgid "Fetching notes has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:115
+msgid "Fetching note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:146
+msgid "Refreshing note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:160
+msgid "Renaming note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:174
+msgid "Creating new note has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:196
+msgid "Saving note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:208
+msgid "Updating title for note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:221
+msgid "Undo delete has failed for note {title}."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:232
+msgid "Deleting note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:248
+msgid "Toggling favorite for note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:259
+msgid ""
+"Updating the note's category has failed. Is the target directory writable?"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/src/NotesService.js:265
+msgid "Updating the category for note {id} has failed."
+msgstr ""
+
+#: /var/tmp/translationtest/notes/templates/dev-mode.php:2
+msgid "Development Mode"
+msgstr ""
+
+#: /var/tmp/translationtest/notes/templates/dev-mode.php:3
+#, php-format
+msgid ""
+"It looks that the notes app was installed from a development source. Please "
+"install it from the official <a href=\"%1$s\">Nextcloud App Store</a> "
+"instead. If you want to build the Notes app by yourself, please follow the "
+"<a href=\"%2$s\">developer instructions</a>."
+msgstr ""

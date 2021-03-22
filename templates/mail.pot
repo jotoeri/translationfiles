@@ -1,0 +1,1400 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/tmp/translationtest/mail/lib/Controller/AccountsController.php:218
+#: /var/tmp/translationtest/mail/lib/Controller/AccountsController.php:343
+msgid "Auto detect failed. Please use manual mode."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Controller/AccountsController.php:221
+msgid "Updating account failed: "
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Controller/AccountsController.php:346
+msgid "Creating account failed: "
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Controller/MessagesController.php:515
+#: /var/tmp/translationtest/mail/lib/Controller/MessagesController.php:604
+#, php-format
+msgid "Embedded message %s"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Dashboard/ImportantMailWidget.php:42
+msgid "Important mail"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Dashboard/UnreadMailWidget.php:42
+msgid "Unread mail"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Db/TagMapper.php:184
+msgid "Important"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Db/TagMapper.php:189
+msgid "Work"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Db/TagMapper.php:194
+msgid "Personal"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Db/TagMapper.php:199
+msgid "To Do"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Db/TagMapper.php:204
+msgid "Later"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/lib/Search/Provider.php:70
+msgid "Mails"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialAppInfoFakeDummyForL10nScript.php:2
+msgid "Mail"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "💌 A mail app for Nextcloud"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"**💌 A mail app for Nextcloud**\n"
+"\n"
+"- **🚀 Integration with other Nextcloud apps!** Currently Contacts, Calendar "
+"& Files – more to come.\n"
+"- **📥 Multiple mail accounts!** Personal and company account? No problem, "
+"and a nice unified inbox. Connect any IMAP account.\n"
+"- **🔒 Send & receive encrypted mails!** Using the great [Mailvelope](https://"
+"mailvelope.com) browser extension.\n"
+"- **🙈 We’re not reinventing the wheel!** Based on the great [Horde](http://"
+"horde.org) libraries.\n"
+"- **📬 Want to host your own mail server?** We don’t have to reimplement this "
+"as you could set up [Mail-in-a-Box](https://mailinabox.email)!"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:1
+msgid "Drafts are saved in:"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:2
+msgid "Sent messages are saved in:"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:3
+msgid "Deleted messages are moved in:"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:4
+msgid "Auto"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:5
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:6
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:12
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:13
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:55
+msgid "Name"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:7
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:8
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:14
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:15
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:56
+msgid "Mail Address"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:9
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:10
+msgid "Password"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:11
+msgid "Manual"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:16
+msgid "IMAP Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:17
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:18
+msgid "IMAP Host"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:19
+msgid "IMAP Security"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:20
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:33
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:243
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:295
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:302
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:310
+msgid "None"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:21
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:34
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:244
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:296
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:303
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:311
+msgid "SSL/TLS"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:22
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:35
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:245
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:297
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:304
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:312
+msgid "STARTTLS"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:23
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:24
+msgid "IMAP Port"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:25
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:26
+msgid "IMAP User"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:27
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:28
+msgid "IMAP Password"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:29
+msgid "SMTP Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:30
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:31
+msgid "SMTP Host"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:32
+msgid "SMTP Security"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:36
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:37
+msgid "SMTP Port"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:38
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:39
+msgid "SMTP User"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:40
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:41
+msgid "SMTP Password"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:42
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:58
+msgid "Save"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:42
+msgid "Connect"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:43
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:191
+msgid "Account settings"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:44
+msgid "Change name"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:45
+msgid "Signature"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:46
+msgid "A signature is added to the text of new messages and replies."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:47
+msgid "Writing mode"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:48
+msgid "Preferred writing mode for new messages and replies."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:49
+msgid "Default folders"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:50
+msgid "The folders to use for drafts, sent messages and deleted messages."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:51
+msgid "Mail server"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:52
+msgid "Sieve filter server"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:53
+msgid "Sieve filter rules"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:54
+msgid "Trusted senders"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:57
+msgid "Add alias"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:59
+msgid "Add mail account"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:60
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:61
+msgid "Use Gravatar and favicon avatars"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:62
+msgid "Register as application for mail links"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:63
+msgid "Show keyboard shortcuts"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:64
+msgid ""
+"Allow the app to collect data about your interactions. Based on this data, "
+"the app will adapt to your preferences. The data will only be stored locally."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:65
+msgid "Put my text to the bottom of a reply instead of on top of it."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:66
+msgid "From"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:67
+msgid "Select account"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:68
+msgid "To"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:69
+msgid "Contact or email address …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:70
+msgid "+ Cc/Bcc"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:71
+msgid "Cc"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:72
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:74
+msgid "No contacts found."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:73
+msgid "Bcc"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:75
+msgid "Subject"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:76
+msgid "Subject …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:77
+msgid ""
+"This message came from a noreply address so your reply will probably not be "
+"read."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:78
+msgid "The following recipients do not have a PGP key: {recipients}."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:79
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:80
+msgid "Write message …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:81
+msgid ""
+"Can not save draft because this account does not have a drafts mailbox "
+"configured."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:82
+msgid "Saving draft …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:83
+msgid "Draft saved"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:84
+msgid "Upload attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:85
+msgid "Add attachment from Files"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:86
+msgid "Enable formatting"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:87
+msgid "Request a read receipt"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:88
+msgid "Encrypt message with Mailvelope"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:89
+msgid ""
+"Looking for a way to encrypt your emails? Install the Mailvelope browser "
+"extension!"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:90
+msgid "Uploading attachments …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:91
+msgid "Sending …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:92
+msgid "Error sending your message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:93
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:237
+msgid "Go back"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:94
+msgid "Retry"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:95
+msgid "Message sent!"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:96
+msgid "Write another message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:97
+msgid "Add share link from {productName} Files"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:98
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:326
+msgid "Send"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:99
+msgid "Encrypt and send"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:99
+msgid "Send unencrypted"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:100
+msgid "Message {id} could not be found"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:101
+msgid "No sent mailbox configured. Please pick one in the account settings."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:102
+msgid "Uploading {percent}% …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:103
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:104
+msgid "Choose a file to add as attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:105
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:106
+msgid "Choose a file to share as a link"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:107
+msgid ""
+"The attachment exceed the allowed attachments size of {size}. Please share "
+"the file via link instead."
+msgid_plural ""
+"The attachments exceed the allowed attachments size of {size}. Please share "
+"the files via link instead."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:108
+msgid "No message found yet"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:109
+msgid "Set up an account"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:110
+msgid "Plain text"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:111
+msgid "Rich text"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:112
+msgid "No messages in this mailbox"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:113
+msgid "No messages"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:114
+msgid "Draft: "
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:115
+msgid "Blind copy recipients only"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:116
+msgid "Load more"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:117
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:133
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:162
+msgid "No trash mailbox configured"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:118
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:134
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:163
+msgid "Could not delete message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:119
+msgid "Mark {number} unread"
+msgid_plural "Mark {number} unread"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:120
+msgid "Mark {number} read"
+msgid_plural "Mark {number} read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:121
+msgid "Unfavorite {number}"
+msgid_plural "Unfavorite {number}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:122
+msgid "Favorite {number}"
+msgid_plural "Favorite {number}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:123
+msgid "Unselect {number}"
+msgid_plural "Unselect {number}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:124
+msgid "Move {number}"
+msgid_plural "Move {number}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:125
+msgid "Forward {number} as attachment"
+msgid_plural "Forward {number} as attachment"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:126
+msgid "Delete {number}"
+msgid_plural "Delete {number}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:127
+msgid "Report this bug"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:129
+msgid "Could not open mailbox"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:130
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:131
+msgid "Loading messages"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:132
+msgid ""
+"Indexing your messages. This can take a bit longer for larger mailboxes."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:135
+msgid "Choose target mailbox"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:136
+msgid "No more submailboxes in here"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:137
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:138
+msgid "Choose"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:139
+msgid "Important and unread"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:140
+msgid "Important info"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:141
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:39
+msgid "Favorites"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:142
+msgid "Other"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:143
+msgid ""
+"Messages will automatically be marked as important based on which messages "
+"you interacted with or marked as important. In the beginning you might have "
+"to manually change the importance to teach the system, but it will improve "
+"over time."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:144
+msgid ""
+"The sender of this message has asked to be notified when you read this "
+"message."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:145
+msgid "Notify the sender"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:146
+msgid "You sent a read confirmation to the sender of this message."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:147
+msgid "Could not send mdn"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:148
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:233
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:260
+msgid "Reply"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:149
+msgid "Reply to sender only"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:150
+msgid "Forward"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:151
+msgid "Edit as new message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:152
+msgid "Mark unimportant"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:152
+msgid "Mark important"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:153
+msgid "Mark unfavorite"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:153
+msgid "Mark favorite"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:154
+msgid "Mark unread"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:154
+msgid "Mark read"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:155
+msgid "Mark not spam"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:155
+msgid "Mark as spam"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:156
+msgid "Unselect"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:156
+msgid "Select"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:157
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:184
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:186
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:213
+msgid "Move"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:158
+msgid "View source"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:159
+msgid "Download thread data for debugging"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:160
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:258
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:324
+msgid "Delete"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:161
+msgid "Message source"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:164
+msgid "Message body"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:165
+msgid "Attachments"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:166
+msgid "Import into calendar"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:167
+msgid "Download attachment"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:168
+msgid "Save to Files"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:169
+msgid "Unnamed"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:170
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:171
+msgid "Embedded message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:172
+msgid "Choose a folder to store the attachment in"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:173
+msgid "Save all to Files"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:174
+msgid "Download Zip"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:175
+msgid "Choose a folder to store the attachments in"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:176
+msgid "This message is encrypted with PGP. Install Mailvelope to decrypt it."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:177
+msgid "The images have been blocked to protect your privacy."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:178
+msgid "Show"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:179
+msgid "Show images temporarily"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:180
+msgid "Always show images from {sender}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:181
+msgid "Always show images from {domain}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:182
+msgid "Message frame"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:183
+msgid "Quoted text"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:185
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:187
+msgid "Moving"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:188
+msgid "New message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:189
+msgid "Settings"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:190
+msgid "Quota"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:192
+msgid "Show only subscribed mailboxes"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:193
+msgid "Add mailbox"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:194
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:212
+msgid "Saving"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:195
+msgid "Move up"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:196
+msgid "Move down"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:197
+msgid "Remove account"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:198
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:219
+msgid "Loading …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:199
+msgid "Not supported by the server"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:200
+msgid "{usage} of {limit} used"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:201
+msgid ""
+"The account for {email} and cached email data will be removed from "
+"Nextcloud, but not from your email provider."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:202
+msgid "Remove account {email}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:203
+msgid "Remove {email}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:204
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:223
+msgid "Cancel"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:205
+msgid "Show all subscribed mailboxes"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:206
+msgid "Show all mailboxes"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:207
+msgid "Collapse mailboxes"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:208
+msgid "Mark all as read"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:209
+msgid "Mark all messages of this mailbox as read"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:210
+msgid "Add submailbox"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:211
+msgid "Edit name"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:214
+msgid "Clear cache"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:215
+msgid ""
+"Clear locally cached data, in case there are issues with synchronization."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:216
+msgid "Subscribed"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:217
+msgid "Sync in background"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:218
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:221
+msgid "Delete mailbox"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:220
+msgid "The mailbox and all messages in it will be deleted."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:222
+msgid "Delete mailbox {name}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:224
+msgid "An error occurred, unable to rename the mailbox."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:225
+msgid "{total} message"
+msgid_plural "{total} messages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:226
+msgid "{unread} unread of {total}"
+msgid_plural "{unread} unread of {total}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:227
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:261
+msgid "Not found"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:228
+msgid "Attachments were not copied. Please add them manually."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:229
+msgid "Could not load your draft"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:230
+msgid "Could not load original message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:231
+msgid "No message selected"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:232
+msgid "Contacts with this address"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:234
+msgid "Add to Contact"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:235
+msgid "New Contact"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:236
+msgid "Contact name …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:238
+msgid "Add"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:239
+msgid "Disabled"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:240
+msgid "Enabled"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:241
+msgid "Sieve Host"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:242
+msgid "Sieve Security"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:246
+msgid "Sieve Port"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:247
+msgid "Sieve Credentials"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:248
+msgid "IMAP Credentials"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:249
+msgid "Custom"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:250
+msgid "Sieve User"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:251
+msgid "Sieve Password"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:252
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:254
+msgid "Oh Snap!"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:253
+msgid "Save sieve settings"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:255
+msgid "Save sieve script"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:256
+msgid "Signature …"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:257
+msgid "Save signature"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:259
+msgid "Could not load your message thread"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:262
+msgid "Remove"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:263
+msgid "No senders are trusted at the moment."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:264
+msgid "Could not remove trusted sender {sender}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:265
+msgid "individual"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:266
+msgid "domain"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:267
+msgid "Import into {calendar}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:268
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:273
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:278
+msgid "Event imported into {calendar}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:269
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:274
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:279
+msgid "Could not create event"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:270
+msgid "Airplane"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:271
+msgid "Reservation {id}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:272
+msgid "Flight {flightNr} from {depAirport} to {arrAirport}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:275
+msgid "Train"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:276
+msgid "{trainNr} from {depStation} to {arrStation}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:277
+msgid "Train from {depStation} to {arrStation}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:280
+msgid "Mail app"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:281
+msgid "The mail app allows users to read mails on their IMAP accounts."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:282
+msgid ""
+"Here you can find instance-wide settings. User specific settings are found "
+"in the app itself (bottom-left corner)."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:283
+msgid "Email: {email}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:284
+msgid "IMAP: {user} on {host}:{port} ({ssl} encryption)"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:285
+msgid "SMTP: {user} on {host}:{port} ({ssl} encryption)"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:286
+msgid "Sieve: {user} on {host}:{port} ({ssl} encryption)"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:287
+msgid ""
+"You can configure a template for account settings, from which all users will "
+"get an account provisioned from."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:288
+msgid "Provision an account for every user"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:289
+msgid "General"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:290
+msgid "Email address"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:291
+msgid "IMAP"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:292
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:299
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:307
+msgid "User"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:293
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:300
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:308
+msgid "Host"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:294
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:301
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:309
+msgid "Port"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:298
+msgid "SMTP"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:305
+msgid "Sieve"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:306
+msgid "Enable sieve integration"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:313
+msgid "Apply and create/update for all users"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:314
+msgid "Disable and un-provision existing accounts"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:315
+msgid ""
+"With the settings above, the app will create account settings in the "
+"following way:"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:316
+msgid "Keyboard shortcut"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:317
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:318
+msgid "Speed up your Mail experience with these quick shortcuts."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:319
+msgid "Compose new message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:320
+msgid "Newer message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:321
+msgid "Older message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:322
+msgid "Toggle star"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:323
+msgid "Toggle unread"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:325
+msgid "Search"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:327
+msgid "Refresh"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:328
+msgid "Connect your mail account"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:329
+msgid "Unexpected error during account creation"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:128
+msgid "Itinerary for {type} is not supported yet"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:27
+msgid "All"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:31
+msgid "Archive"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:35
+msgid "Drafts"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:44
+msgid "Priority inbox"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:47
+msgid "All inboxes"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:50
+msgid "Inbox"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:55
+msgid "Junk"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:59
+msgid "Sent"
+msgstr ""
+
+#. TRANSLATORS: translated mail box name
+#: /var/tmp/translationtest/mail/src/i18n/MailboxTranslator.js:63
+msgid "Trash"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/service/FileSharingService.js:59
+msgid "Error while sharing file"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/service/NotificationService.js:75
+msgid ""
+"{from}\n"
+"{subject}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/service/NotificationService.js:80
+msgid ""
+"%n new message \n"
+"from {from}"
+msgid_plural ""
+"%n new messages \n"
+"from {from}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/mail/src/service/NotificationService.js:88
+msgid "Nextcloud Mail"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/util/ErrorMessageFactory.js:35
+#: /var/tmp/translationtest/mail/src/util/ErrorMessageFactory.js:38
+msgid "Could not load {tag}{name}{endtag}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/util/ErrorMessageFactory.js:41
+msgid "There was a problem loading {tag}{name}{endtag}"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/util/ErrorMessageFactory.js:55
+msgid "Could not load your message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/util/ErrorMessageFactory.js:56
+msgid "Could not load the desired message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/src/util/ErrorMessageFactory.js:57
+msgid "Could not load the message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/error.php:26
+msgid "Error loading message"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/redirect.php:34
+#, php-format
+msgid "Forwarding to %s"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/redirect.php:35
+msgid ""
+"Click here if you are not automatically redirected within the next few "
+"seconds."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/redirect.php:41
+msgid "Redirect"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/redirect.php:42
+#, php-format
+msgid "The link leads to %s"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/redirect.php:43
+#, php-format
+msgid ""
+"If you don’t want to visit that page, you can return to <a href=\"%s\">Mail</"
+"a>."
+msgstr ""
+
+#: /var/tmp/translationtest/mail/templates/redirect.php:48
+#, php-format
+msgid "Continue to %s"
+msgstr ""

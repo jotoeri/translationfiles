@@ -1,0 +1,844 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/tmp/translationtest/contacts/lib/ContactsMenu/Providers/DetailsProvider.php:120
+#: /var/tmp/translationtest/contacts/lib/Controller/ContactsController.php:60
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:98
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:122
+#: /var/tmp/translationtest/contacts/src/main.js:71
+#: /var/tmp/translationtest/contacts/src/router/index.js:45
+msgid "All contacts"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/lib/ContactsMenu/Providers/DetailsProvider.php:125
+msgid "Details"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialAppInfoFakeDummyForL10nScript.php:2
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:3
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:92
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:125
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:126
+msgid "Contacts"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "A contacts app for Nextcloud"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"The Nextcloud contacts app is a user interface for Nextcloud's CardDAV "
+"server. Easily sync contacts from various devices with your Nextcloud and "
+"edit them online.\n"
+"\n"
+"* 🚀 **Integration with other Nextcloud apps!** Currently Mail and Calendar – "
+"more to come.\n"
+"* 🎉 **Never forget a birthday!** You can sync birthdays and other recurring "
+"events with your Nextcloud Calendar.\n"
+"* 👥 **Sharing of Adressbooks!** You want to share your contacts with your "
+"friends or coworkers? No problem!\n"
+"* 🙈 **We’re not reinventing the wheel!** Based on the great and open "
+"SabreDAV library."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:1
+msgid "Copy to full name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:2
+msgid "Omit year"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:4
+msgid "Allow updating avatars from social media"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:5
+msgid "Add new property"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:6
+msgid "Choose property type"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:7
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:12
+msgid "Upload a new picture"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:8
+msgid "Choose from Files"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:9
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:14
+msgid "Get from "
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:10
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:15
+msgid "Download picture"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:11
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:16
+msgid "Delete picture"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:13
+msgid "Choose from files"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:17
+msgid "Invalid image"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:18
+msgid "Image is too big (max 1MB)."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:19
+msgid "Pick an avatar"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:20
+msgid "Error while processing the picture."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:21
+msgid "Avatar downloaded from social network"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:22
+msgid "Avatar already up to date"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:23
+msgid "Avatar download failed"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:24
+msgid "No contact selected"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:25
+msgid "Select a contact on the list to begin"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:26
+msgid "Name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:27
+msgid "Company"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:28
+msgid "Title"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:29
+msgid ""
+"This contact was broken and received a fix. Please review the content and "
+"click here to save it."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:30
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:68
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:112
+msgid "Download"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:31
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:38
+msgid "Clone contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:32
+msgid "Generate QR Code"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:33
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:58
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:72
+msgid "Delete"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:34
+msgid "Contact vCard as qrcode"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:35
+msgid "Pick an address book"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:36
+msgid "Select address book"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:37
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:55
+msgid "Cancel"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:39
+msgid "This contact is not yet synced. Edit it to save it to the server."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:40
+msgid ""
+"This contact is in read-only mode. You do not have permission to edit this "
+"contact."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:41
+msgid ""
+"The contact you were trying to edit has changed. Please manually refresh the "
+"contact. Any further edits will be discarded."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:42
+msgid "Address book"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:43
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:61
+msgid "Groups"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:44
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:110
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:127
+#: /var/tmp/translationtest/contacts/src/services/checks/missingFN.js:35
+msgid "New contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:45
+msgid "Syntax error. Cannot open the contact."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:46
+msgid "The contact doesn't exists anymore on the server."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:47
+msgid ""
+"Unable to retrieve the contact from the server, please check your network "
+"connection."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:48
+msgid "An error occurred while trying to move the contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:49
+msgid "An error occurred while trying to copy the contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:50
+msgid "Remove {type}"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:51
+msgid "Search {types}"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:52
+msgid "Loading …"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:53
+msgid "List is empty"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:54
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:63
+msgid "No results"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:56
+msgid "Add to group"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:57
+msgid "Add {type}"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:59
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:67
+msgid "Select type"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:60
+msgid "Select Date"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:62
+msgid "Add contact in group"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:106
+msgid "Last modified"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:66
+msgid "Select option"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:69
+msgid "Rename"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:70
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:71
+msgid "Enabled"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:70
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:71
+msgid "Disabled"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:73
+msgid "Copied"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:74
+msgid "Can not copy"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:75
+msgid "Copy link"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:76
+msgid "Toggling of address book was not successful"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:77
+msgid "This will delete the address book and every contacts within it"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:78
+msgid "Delete {addressbook} ?"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:79
+msgid "Deletion of address book was not successful."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:80
+msgid "Renaming of address book was not successful."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:81
+msgid "Address book copied to clipboard"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:82
+msgid "Address book was not copied to clipboard."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:83
+msgid "Shared with {num} entity"
+msgid_plural "Shared with {num} entities"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:84
+msgid "Share with users or groups"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:85
+msgid "No users or groups"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:86
+msgid "can edit"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:87
+msgid "Unable to delete the share"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:88
+msgid "Unable to change permissions"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:89
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:90
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:91
+msgid "Import contacts"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:93
+msgid "Import into the {addressbookName} addressbook"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:94
+msgid "Select local file"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:95
+msgid "Import from files"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:96
+msgid "Importing is disabled because there are no address books available"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:97
+msgid "Choose a vCard file to import"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:99
+msgid "Address book name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:100
+msgid "An error occurred, unable to create the address book"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:101
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:51
+msgid "First name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:102
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:50
+msgid "Last name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:103
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:66
+msgid "Phonetic first name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:104
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:70
+msgid "Phonetic last name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:105
+msgid "Display name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:107
+msgid "Sort by {sorting}"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:108
+msgid "Update avatars from social media"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:109
+msgid "(refreshed once per week)"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:111
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:121
+msgid "Add contacts"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:113
+msgid "+ New group"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:114
+msgid "Create a new group"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:115
+msgid "Group name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:116
+msgid "Loading contacts …"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:117
+msgid "There are no contacts yet"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:118
+msgid "Create contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:119
+msgid "There are no contacts in this group"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:120
+msgid "Create contacts"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:123
+msgid "Not grouped"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:124
+msgid "Recently contacted"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:128
+msgid "Unable to create the contact."
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:129
+msgid "Contact not found"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:130
+msgid "Group not found"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:131
+msgid "This group already exists"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:132
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:136
+msgid "Close"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:133
+msgid "{success} contact added to {name}"
+msgid_plural "{success} contacts added to {name}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:134
+msgid "Adding {success} contact to {name}"
+msgid_plural "Adding {success} contacts to {name}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:135
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:139
+msgid "{count} error"
+msgid_plural "{count} errors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:137
+msgid "Importing %n contact into {addressbook}"
+msgid_plural "Importing %n contacts into {addressbook}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/specialVueFakeDummyForL10nScript.js:138
+msgid "Done importing %n contact into {addressbook}"
+msgid_plural "Done importing %n contacts into {addressbook}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/src/files-action.js:31
+msgid "Import"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:44
+msgid "Nickname"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:48
+msgid "Detailed name"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:52
+msgid "Additional names"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:53
+msgid "Prefix"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:54
+msgid "Suffix"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:74
+msgid "Notes"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:79
+msgid "Website"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:84
+msgid "Location"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:94
+msgid "Federated Cloud ID"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:101
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:126
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:168
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:206
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:207
+msgid "Home"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:102
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:127
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:169
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:208
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:209
+msgid "Work"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:103
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:128
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:170
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:306
+msgid "Other"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:108
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:112
+msgid "Address"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:110
+msgid "Post office box"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:111
+msgid "Extended address"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:113
+msgid "City"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:114
+msgid "State or province"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:115
+msgid "Postal code"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:116
+msgid "Country"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:132
+msgid "Birthday"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:143
+msgid "Anniversary"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:151
+msgid "Date of death"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:160
+msgid "Email"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:175
+msgid "Instant messaging"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:198
+msgid "Phone"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:210
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:211
+msgid "Mobile"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:212
+msgid "Work mobile"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:213
+msgid "Home mobile"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:214
+msgid "Fax"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:215
+msgid "Fax home"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:216
+msgid "Fax work"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:217
+msgid "Pager"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:218
+msgid "Voice"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:219
+msgid "Car"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:220
+msgid "Work pager"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:227
+msgid "Social network"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:251
+msgid "Relationship to you"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:255
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:286
+msgid "Spouse"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:256
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:287
+msgid "Child"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:257
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:288
+msgid "Mother"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:258
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:289
+msgid "Father"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:259
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:290
+msgid "Parent"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:260
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:291
+msgid "Brother"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:261
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:292
+msgid "Sister"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:262
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:293
+msgid "Relative"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:263
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:281
+msgid "Friend"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:264
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:282
+msgid "Colleague"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:265
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:284
+msgid "Manager"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:266
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:285
+msgid "Assistant"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:271
+msgid "Related contacts"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:278
+msgid "Contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:279
+msgid "Agent"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:280
+msgid "Emergency"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:283
+msgid "Co-worker"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:297
+msgid "Gender"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:304
+msgid "Female"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:305
+msgid "Male"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:307
+msgid "None"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:308
+msgid "Unknown"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:312
+msgid "Timezone"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/models/rfcProps.js:321
+msgid "Spoken languages"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/src/store/addressbooks.js:373
+msgid "{failed} contact failed to be read"
+msgid_plural "{failed} contacts failed to be read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /var/tmp/translationtest/contacts/src/store/contacts.js:298
+msgid "Unable to delete contact"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/templates/main.php:7
+msgid "Your web browser is out of date"
+msgstr ""
+
+#: /var/tmp/translationtest/contacts/templates/main.php:8
+msgid "This application is not compatible with Internet Explorer"
+msgstr ""
