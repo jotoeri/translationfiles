@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,9 +104,9 @@ msgstr ""
 
 #: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:1
 #: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:16
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:58
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:80
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:105
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:62
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:84
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:110
 msgid "New form"
 msgstr ""
 
@@ -151,8 +151,9 @@ msgstr ""
 msgid "Unable to copy form"
 msgstr ""
 
+#. TRANSLATORS Button to switch to the Result-View
 #: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:13
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:50
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:54
 msgid "Results"
 msgstr ""
 
@@ -174,60 +175,62 @@ msgstr ""
 msgid "Cannot copy, please copy the link manually"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:19
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:51
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:68
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:78
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:88
+#. TRANSLATORS Button copies the Share Link to clipboard.
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:20
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:55
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:72
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:82
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:92
 msgid "Share link"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:20
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:21
 msgid "Are you sure you want to delete {title}?"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:21
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:22
 msgid "Error while deleting {title}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:22
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:23
 msgid "An answer for the {index} option"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:23
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:24
 msgid "Answer number {index}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:24
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:25
 msgid "Delete answer"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:25
 #: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:26
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:27
 msgid "Error while saving the answer"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:27
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:28
 msgid "Question number {index}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:28
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:29
 msgid "Drag to reorder the questions"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:29
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:30
 msgid "Title of question number {index}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:30
+#. TRANSLATORS Making this question necessary to be answered when submitting to a form
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:32
 msgid "Required"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:31
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:33
 msgid "Delete question"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:32
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:34
 #: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:104
 #: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:116
 #: /var/tmp/translationtest/forms/src/models/AnswerTypes.js:128
@@ -235,242 +238,244 @@ msgstr ""
 msgid "This question needs a title!"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:33
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:34
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:37
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:38
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:35
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:36
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:39
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:40
 msgid "Add a new answer"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:35
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:39
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:37
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:41
 msgid "There was an issue deleting this option"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:36
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:38
 msgid "A long answer for the question “{text}”"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:40
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:42
 msgid "A short answer for the question “{text}”"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:41
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:43
 msgid "Delete this response"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:42
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:43
+#. TRANSLATORS Counts on Results-Summary, how many users did not respond to this question.
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:45
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:46
 msgid "No response"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:44
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:47
 msgid "User or group name …"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:45
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:48
 msgid "No recommendations. Start typing."
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:46
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:49
 msgid "Searching …"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:47
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:50
 msgid "No elements found."
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:48
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:51
 msgid "Group"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:49
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:100
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:52
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:105
 msgid "Loading {title} …"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:52
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:56
 msgid "Toggle settings"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:53
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:54
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:57
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:58
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:69
 msgid "Form title"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:55
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:56
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:59
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:60
 msgid "Description"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:57
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:61
 msgid "Add a question"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:59
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:106
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:63
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:111
 msgid "Responses are anonymous."
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:60
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:107
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:112
 msgid "Responses are connected to your Nextcloud account."
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:61
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:108
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:113
 msgid "An asterisk (*) indicates mandatory questions."
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:62
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:66
 msgid "There was an error while adding the new question"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:63
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:67
 msgid "There was an error while removing the question"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:68
 #: /var/tmp/translationtest/forms/src/mixins/ViewsMixin.js:118
 msgid "Error while saving form"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:66
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:70
 msgid "Loading responses …"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:67
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:71
 msgid "Back to questions"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:69
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:73
 msgid "{amount} responses"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:70
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:74
 msgid "Summary"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:71
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:75
 msgid "Responses"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:72
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:76
 msgid "Options"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:73
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:79
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:77
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:83
 msgid "Save CSV to Files"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:74
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:78
 msgid "Download CSV"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:75
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:79
 msgid "Delete all responses"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:76
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:80
 msgid "No responses yet"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:77
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:81
 msgid "Results of submitted forms will show up here"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:81
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:85
 msgid "There was an error while loading the results"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:82
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:86
 msgid "Export successful to {file}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:83
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:87
 msgid "There was an error, while exporting to Files"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:84
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:88
 msgid "There was an error while removing this response"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:85
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:89
 msgid "Are you sure you want to delete all responses of {title}?"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:86
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:90
 msgid "There was an error while removing responses"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:87
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:91
 msgid "Share form"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:89
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:93
 msgid "Share via link"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:90
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:94
 msgid "Show to all users of this instance"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:91
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:95
 msgid "Choose users to share with"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:92
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:96
 msgid "Settings"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:93
+#. TRANSLATORS Checkbox to select whether responses will be stored anonymously or not
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:98
 msgid "Anonymous responses"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:94
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:99
 msgid "Allow multiple responses per person"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:95
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:100
 msgid "Set expiration date"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:96
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:101
 msgid "Expiration date"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:97
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:102
 msgid "Select expiration date"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:98
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:103
 msgid "Expired on {date}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:99
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:104
 msgid "Expires on {date}"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:101
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:106
 msgid "Submitting form …"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:102
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:107
 #: /var/tmp/translationtest/forms/templates/nosubmit.php:28
 msgid "Thank you for completing the form!"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:103
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:108
 msgid "Submit"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:104
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:109
 msgid "Submit form"
 msgstr ""
 
-#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:109
+#: /var/tmp/translationtest/forms/specialVueFakeDummyForL10nScript.js:114
 msgid "There was an error submitting the form"
 msgstr ""
 

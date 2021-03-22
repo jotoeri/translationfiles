@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -326,10 +326,6 @@ msgid "Anonymous poll"
 msgstr ""
 
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:27
-msgid "Reopen poll"
-msgstr ""
-
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:27
 msgid "Close poll"
 msgstr ""
 
@@ -446,8 +442,6 @@ msgid "Delete poll"
 msgstr ""
 
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:53
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:211
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:256
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:280
 msgid "Restore poll"
 msgstr ""
@@ -509,12 +503,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:66
 msgid "Clone option"
-msgstr ""
-
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:67
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:82
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:246
-msgid "Unconfirm option"
 msgstr ""
 
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:67
@@ -816,10 +804,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:170
 msgid "Effective shares"
-msgstr ""
-
-#: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:171
-msgid "Resend invitation mail"
 msgstr ""
 
 #: /var/tmp/translationtest/polls/specialVueFakeDummyForL10nScript.js:171

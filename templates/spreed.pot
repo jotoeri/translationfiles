@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2871,15 +2871,7 @@ msgid "No audio"
 msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:201
-msgid "Mute audio (m)"
-msgstr ""
-
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:201
 msgid "Unmute audio (m)"
-msgstr ""
-
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:203
-msgid "Mute audio"
 msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:203
@@ -2922,11 +2914,6 @@ msgstr ""
 msgid ""
 "Enable video. Your connection will be briefly interrupted when enabling the "
 "video for the first time"
-msgstr ""
-
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:212
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:213
-msgid "Screensharing options"
 msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:212
@@ -3308,10 +3295,6 @@ msgid "Error occurred when unlocking the conversation"
 msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:319
-msgid "Save"
-msgstr ""
-
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:319
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:579
 msgid "Edit"
 msgstr ""
@@ -3585,10 +3568,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:396
 msgid "Mark as read"
-msgstr ""
-
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:403
-msgid "Remove from favorites"
 msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:403
@@ -4124,10 +4103,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:577
 msgid "Your PIN: {attendeePin}"
-msgstr ""
-
-#: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:578
-msgid "Display name: "
 msgstr ""
 
 #: /var/tmp/translationtest/spreed/specialVueFakeDummyForL10nScript.js:581

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgid "Important"
 msgstr ""
 
 #: /var/tmp/translationtest/tasks/lib/Service/CollectionsService.php:77
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:105
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:124
 msgid "Today"
 msgstr ""
 
@@ -40,7 +40,7 @@ msgid "Current"
 msgstr ""
 
 #: /var/tmp/translationtest/tasks/lib/Service/CollectionsService.php:97
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:124
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:143
 msgid "Completed"
 msgstr ""
 
@@ -135,10 +135,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:18
 msgid "Download"
-msgstr ""
-
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:19
-msgid "Delete"
 msgstr ""
 
 #: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:19
@@ -305,392 +301,424 @@ msgstr ""
 msgid "Sort by due date and summary."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:59
+#. TRANSLATORS The date at which a task was created.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:60
 msgid "Created date"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:60
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:61
 msgid "Sort by created date and summary."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:61
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:62
 msgid "Last modified"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:62
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:63
 msgid "Sort by last-modified date and summary."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:63
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:64
 msgid "Completed date"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:64
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:65
 msgid "Sort by completed date."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:65
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:66
 msgid "Priority"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:66
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:67
 msgid "Sort by priority and summary."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:67
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:68
 msgid "Alphabetically"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:68
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:69
 msgid "Sort by summary and priority."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:69
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:70
 msgid "Manually"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:70
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:71
 msgid "Sort by manual order."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:71
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:107
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:72
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:126
 msgid "Task is completed"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:72
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:73
 #, javascript-format
 msgid "{complete} % completed"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:73
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:74
 msgid "Add subtask"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:74
-msgid "Show subtasks"
-msgstr ""
-
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:74
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:75
 msgid "Hide subtasks"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:75
-msgid "Show completed subtasks"
-msgstr ""
-
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:75
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:76
 msgid "Hide completed subtasks"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:76
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:77
 msgid "Delete task"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:77
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:79
 msgid "[Yesterday]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:78
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:81
 msgid "[Today]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:79
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:83
 msgid "[Tomorrow]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:80
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:85
 msgid "[Completed yesterday]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:81
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:87
 msgid "[Completed today]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:82
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:89
 msgid "[Completed tomorrow]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:83
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:91
 msgid "[Yesterday at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:84
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:93
 msgid "[Today at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:85
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:95
 msgid "[Tomorrow at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:86
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:87
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:88
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:97
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:99
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:101
 msgid "L [at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:89
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:103
 msgid "[Completed yesterday at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:90
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:105
 msgid "[Completed today at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:91
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:107
 msgid "[Completed tomorrow at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:92
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:93
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:94
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:109
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:111
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:113
 msgid "[Completed] L [at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:95
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:114
 msgid "Add a subtask to \"{task}\"…"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:96
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:115
 msgid "An error occurred, unable to delete the task."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:97
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:116
 msgid "Deleting the task in {countdown} second"
 msgid_plural "Deleting the task in {countdown} seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:98
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:117
 msgid "Add a task to \"{task}\"…"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:99
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:118
 msgid "%n Completed Task"
 msgid_plural "%n Completed Tasks"
 msgstr[0] ""
 msgstr[1] ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:100
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:119
 msgid "Add an important task to \"{calendar}\"…"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:101
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:104
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:120
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:123
 msgid "Add a task due today to \"{calendar}\"…"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:102
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:121
 msgid "Add a current task to \"{calendar}\"…"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:103
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:122
 msgid "Add a task to \"{calendar}\"…"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:106
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:125
 msgid "Tomorrow"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:108
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:142
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:127
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:176
 msgid "Set start date"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:109
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:128
 msgid "Set start time"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:110
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:158
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:129
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:207
 msgid "Set due date"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:111
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:130
 msgid "Set due time"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:112
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:131
 msgid "All day"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:113
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:132
 msgid "Select a calendar"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:114
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:133
 msgid "Select a classification"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:115
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:134
 msgid "Select a status"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:116
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:135
 msgid "Select categories"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:117
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:136
 msgid "Add this as a new category"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:118
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:137
 msgid "Loading task from server."
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:119
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:138
 msgid "Task not found!"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:120
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:139
 msgid "When shared show full event"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:121
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:140
 msgid "When shared show only busy"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:122
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:141
 msgid "When shared hide this event"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:123
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:142
 msgid "Needs action"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:125
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:144
 msgid "In process"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:126
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:145
 msgid "Canceled"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:127
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:147
 msgid "[Starts today]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:128
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:149
 msgid "[Starts tomorrow]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:129
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:133
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986'. Please translate the string, and keep the brackets and the "LL".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:151
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:159
 msgid "[Starts on] LL"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:130
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:153
 msgid "[Started yesterday]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:131
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:132
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986'. Please translate the string, and keep the brackets and the "LL".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:155
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:157
 msgid "[Started on] LL"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:134
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:161
 msgid "[Started today at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:135
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:163
 msgid "[Starts today at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:136
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:165
 msgid "[Starts tomorrow at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:137
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:141
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986' and "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets the "LL" and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:167
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:175
 msgid "[Starts on] LL [at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:138
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:169
 msgid "[Started yesterday at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:139
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:140
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986' and "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets the "LL" and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:171
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:173
 msgid "[Started on] LL [at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:143
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:178
 msgid "[Due today]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:144
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string and keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:180
 msgid "[Due tomorrow]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:145
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:149
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986'. Please translate the string and keep the brackets and the "LL".
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string, but keep the brackets and the "LL".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:182
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:190
 msgid "[Due on] LL"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:146
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string, but keep the brackets.
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:184
 msgid "[Was due yesterday]"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:147
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:148
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986'. Please translate the string, but keep the brackets and the "LL".
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. Please translate the string, but keep the brackets and the "LL".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:186
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:188
 msgid "[Was due on] LL"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:150
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:192
 msgid "[Was due today at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:151
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:194
 msgid "[Due today at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:152
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:196
 msgid "[Due tomorrow at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:153
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:157
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986' and "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets the "LL" and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:198
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:206
 msgid "[Due on] LL [at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:154
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:200
 msgid "[Was due yesterday at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:155
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:156
+#. TRANSLATORS This is a string for moment.js. The square brackets escape the string from moment.js. "LL" will be replaced with a date, e.g. 'September 4 1986' and "LT" will be replaced with a time, e.g. '08:30 PM'. Please translate the string and keep the brackets the "LL" and the "LT".
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:202
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:204
 msgid "[Was due on] LL [at] LT"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:159
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:208
 msgid "Last modified {date}"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:160
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:209
 msgid "Created {date}"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:161
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:210
 msgid "Completed {date}"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:162
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:211
 msgid "No priority assigned"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:163
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:212
 msgid "Priority {priority}: high"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:164
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:213
 msgid "Priority {priority}: medium"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:165
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:214
 msgid "Priority {priority}: low"
 msgstr ""
 
-#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:166
+#: /var/tmp/translationtest/tasks/specialVueFakeDummyForL10nScript.js:215
 #, javascript-format
 msgid "{percent} % completed"
 msgstr ""

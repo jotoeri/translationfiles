@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:19
 #: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:78
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:272
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:276
 msgid "Download"
 msgstr ""
 
@@ -183,7 +183,7 @@ msgid "Unshare from me"
 msgstr ""
 
 #: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:21
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:273
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:277
 msgid "Delete"
 msgstr ""
 
@@ -772,7 +772,7 @@ msgid "Remove color"
 msgstr ""
 
 #: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:192
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:270
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:274
 msgid "Event title"
 msgstr ""
 
@@ -872,7 +872,7 @@ msgid ""
 msgstr ""
 
 #: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:215
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:279
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:283
 msgid "Repeat"
 msgstr ""
 
@@ -1043,62 +1043,58 @@ msgstr ""
 msgid "Create a new event"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:266
+#. TRANSLATORS Please translate only the text in brackets and keep the brackets!
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:267
 msgid "[Today]"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:267
+#. TRANSLATORS Please translate only the text in brackets and keep the brackets!
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:269
 msgid "[Tomorrow]"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:268
+#. TRANSLATORS Please translate only the text in brackets and keep the brackets!
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:271
 msgid "[Yesterday]"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:269
+#. TRANSLATORS Please translate only the text in brackets and keep the brackets!
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:273
 msgid "[Last] dddd"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:271
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:281
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:275
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:285
 msgid "Event does not exist"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:274
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:278
 msgid "Delete this occurrence"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:275
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:279
 msgid "Delete this and all future"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:276
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:280
 msgid "Details"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:277
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:281
 msgid "Attendees"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:278
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:282
 msgid "Reminders"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:280
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:283
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:284
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:287
 msgid "Close"
 msgstr ""
 
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:282
+#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:286
 msgid "Show more details"
-msgstr ""
-
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:88
-msgid "Subscribe to {name}"
-msgstr ""
-
-#: /var/tmp/translationtest/calendar/specialVueFakeDummyForL10nScript.js:87
-msgid "Download {name}"
 msgstr ""
 
 #: /var/tmp/translationtest/calendar/src/defaults/defaultCategories.js:27

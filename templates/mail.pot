@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -218,11 +218,6 @@ msgid "SMTP Password"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:42
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:58
-msgid "Save"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:42
 msgid "Connect"
 msgstr ""
 
@@ -277,6 +272,10 @@ msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:57
 msgid "Add alias"
+msgstr ""
+
+#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:58
+msgid "Save"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:59
@@ -438,10 +437,6 @@ msgstr ""
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:98
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:326
 msgid "Send"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:99
-msgid "Encrypt and send"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:99
@@ -670,15 +665,7 @@ msgid "Edit as new message"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:152
-msgid "Mark unimportant"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:152
 msgid "Mark important"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:153
-msgid "Mark unfavorite"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:153
@@ -686,23 +673,11 @@ msgid "Mark favorite"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:154
-msgid "Mark unread"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:154
 msgid "Mark read"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:155
-msgid "Mark not spam"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:155
 msgid "Mark as spam"
-msgstr ""
-
-#: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:156
-msgid "Unselect"
 msgstr ""
 
 #: /var/tmp/translationtest/mail/specialVueFakeDummyForL10nScript.js:156

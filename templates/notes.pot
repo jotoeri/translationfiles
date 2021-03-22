@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -161,19 +161,11 @@ msgid "Delete note"
 msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:28
-msgid "Remove from favorites"
-msgstr ""
-
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:28
 msgid "Add to favorites"
 msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:29
 msgid "Error during preparing note for deletion."
-msgstr ""
-
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:30
-msgid "Empty note"
 msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:30
@@ -189,15 +181,7 @@ msgid "CTRL + /"
 msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:33
-msgid "Edit"
-msgstr ""
-
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:33
 msgid "Preview"
-msgstr ""
-
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:34
-msgid "Exit full screen"
 msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:34
@@ -213,7 +197,6 @@ msgid "Set category"
 msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:37
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:43
 msgid "Category"
 msgstr ""
 
@@ -278,16 +261,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:53
 msgid "iOS app"
-msgstr ""
-
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:47
-msgid "Start writing a note by clicking on “{newnote}” in the app navigation."
-msgstr ""
-
-#: /var/tmp/translationtest/notes/specialVueFakeDummyForL10nScript.js:43
-msgid ""
-"You can create subcategories by using “/” as delimiter between parent "
-"category and subcategory, e.g. “{parent}/{sub}”."
 msgstr ""
 
 #: /var/tmp/translationtest/notes/src/NotesService.js:17

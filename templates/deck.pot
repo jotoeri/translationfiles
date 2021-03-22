@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud 3.14159\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2021-03-23 00:01+0100\n"
+"POT-Creation-Date: 2021-03-23 00:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -655,10 +655,6 @@ msgid "Clear filter"
 msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:46
-msgid "Hide archived cards"
-msgstr ""
-
-#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:46
 msgid "Show archived cards"
 msgstr ""
 
@@ -722,11 +718,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:64
 msgid "Share board with a user, group or circle …"
-msgstr ""
-
-#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:65
-#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:66
-msgid "Searching for users, groups and circles …"
 msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:65
@@ -876,10 +867,6 @@ msgid "Comments"
 msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:110
-msgid "Modified"
-msgstr ""
-
-#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:110
 msgid "Created"
 msgstr ""
 
@@ -1009,10 +996,6 @@ msgid "Move card"
 msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:149
-msgid "Unarchive card"
-msgstr ""
-
-#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:149
 msgid "Archive card"
 msgstr ""
 
@@ -1083,10 +1066,6 @@ msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:173
 msgid "Archive board"
-msgstr ""
-
-#: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:174
-msgid "Turn on due date reminders"
 msgstr ""
 
 #: /var/tmp/translationtest/deck/specialVueFakeDummyForL10nScript.js:174
